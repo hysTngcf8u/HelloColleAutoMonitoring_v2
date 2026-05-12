@@ -1,0 +1,5044 @@
+{
+  "trades": {
+    "6897316": {
+      "tradeId": "6897316",
+      "status": "キャンセル",
+      "appliedAt": "2026-04-15T01:07:11.000+09:00",
+      "partnerId": "hp12",
+      "mainCard": {
+        "member": "八木栞",
+        "stars": "★★★",
+        "series": "Hello! Project AUTUMN TOUR 2024 Vol.4",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "福田真琳",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "2"
+        },
+        {
+          "member": "岡村美波",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        }
+      ]
+    },
+    "6897353": {
+      "tradeId": "6897353",
+      "status": "成立",
+      "appliedAt": "2026-04-15T01:11:28.000+09:00",
+      "partnerId": "aki_",
+      "mainCard": {
+        "member": "小田さくら",
+        "stars": "★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.1",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "下井谷幸穂",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "0"
+        }
+      ]
+    },
+    "6900759": {
+      "tradeId": "6900759",
+      "status": "成立",
+      "appliedAt": "2026-04-15T14:22:00.000+09:00",
+      "partnerId": "TS_JBG",
+      "mainCard": {
+        "member": "後藤花",
+        "stars": "★",
+        "series": "Hello! Project AUTUMN TOUR 2024 Vol.2",
+        "partnerPossession": "4"
+      },
+      "candidates": [
+        {
+          "member": "北原もも",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "2"
+        }
+      ]
+    },
+    "6902860": {
+      "tradeId": "6902860",
+      "status": "成立",
+      "appliedAt": "2026-04-15T21:04:57.000+09:00",
+      "partnerId": "asm_",
+      "mainCard": {
+        "member": "横山玲奈",
+        "stars": "★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.1",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "川嶋美楓",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        },
+        {
+          "member": "米村姫良々",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        }
+      ]
+    },
+    "6903012": {
+      "tradeId": "6903012",
+      "status": "不成立",
+      "appliedAt": "2026-04-15T21:22:39.000+09:00",
+      "partnerId": "rninzin",
+      "mainCard": {
+        "member": "牧野真莉愛",
+        "stars": "★★",
+        "series": "Hello! Project AUTUMN TOUR 2024 Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "高瀬くるみ",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "西﨑美空",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        }
+      ]
+    },
+    "6904011": {
+      "tradeId": "6904011",
+      "status": "成立",
+      "appliedAt": "2026-04-15T23:40:22.000+09:00",
+      "partnerId": "JJriaiwaffle",
+      "mainCard": {
+        "member": "横山玲奈",
+        "stars": "★★",
+        "series": "モーニング娘。'24 コンサートツアー秋 WE CAN DANCE ! ～Bla Eld～ 石田亜佑美 FINAL",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "松永里愛",
+          "stars": "★★",
+          "series": "Juice=Juice FCイベント2026 ～Miracle×Juice×Box×結成Party！～",
+          "possession": "1"
+        }
+      ]
+    },
+    "6905243": {
+      "tradeId": "6905243",
+      "status": "成立",
+      "appliedAt": "2026-04-16T01:30:37.000+09:00",
+      "partnerId": "JIN10ROW",
+      "mainCard": {
+        "member": "横山玲奈",
+        "stars": "★",
+        "series": "Hello! Project ひなフェス 2024 Vol.1",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "前田こころ",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "高瀬くるみ",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "里吉うたの",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "3"
+        }
+      ]
+    },
+    "6906695": {
+      "tradeId": "6906695",
+      "status": "不成立",
+      "appliedAt": "2026-04-16T08:55:05.000+09:00",
+      "partnerId": "summerconcerto",
+      "mainCard": {
+        "member": "島倉りか",
+        "stars": "★★",
+        "series": "Graduation 〜島倉りか from BEYOOOOONDS〜",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "井上玲音",
+          "stars": "★★",
+          "series": "Juice=Juice FCイベント2026 ～Miracle×Juice×Box×結成Party！～",
+          "possession": "2"
+        }
+      ]
+    },
+    "6907024": {
+      "tradeId": "6907024",
+      "status": "キャンセル",
+      "appliedAt": "2026-04-16T10:12:04.000+09:00",
+      "partnerId": "masa1",
+      "mainCard": {
+        "member": "石田亜佑美",
+        "stars": "★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "江端妃咲",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "0"
+        },
+        {
+          "member": "秋山眞緒",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "2"
+        },
+        {
+          "member": "後藤花",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "1"
+        }
+      ]
+    },
+    "6908230": {
+      "tradeId": "6908230",
+      "status": "成立",
+      "appliedAt": "2026-04-16T13:05:36.000+09:00",
+      "partnerId": "momomodsk",
+      "mainCard": {
+        "member": "牧野真莉愛",
+        "stars": "★★",
+        "series": "Hello! Project AUTUMN TOUR 2024 Vol.1",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "清野桃々姫",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "1"
+        },
+        {
+          "member": "有澤一華",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        },
+        {
+          "member": "江口紗耶",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "0"
+        }
+      ]
+    },
+    "6911089": {
+      "tradeId": "6911089",
+      "status": "成立",
+      "appliedAt": "2026-04-16T22:17:15.000+09:00",
+      "partnerId": "wlLaFbql1S",
+      "mainCard": {
+        "member": "石田亜佑美",
+        "stars": "★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.1",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "西田汐里",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "0"
+        }
+      ]
+    },
+    "6912802": {
+      "tradeId": "6912802",
+      "status": "キャンセル",
+      "appliedAt": "2026-04-17T01:09:01.000+09:00",
+      "partnerId": "erkjj",
+      "mainCard": {
+        "member": "石田亜佑美",
+        "stars": "★",
+        "series": "Hello! Project ひなフェス 2024 Vol.1",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "前田こころ",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "里吉うたの",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "3"
+        },
+        {
+          "member": "工藤由愛",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        }
+      ]
+    },
+    "6912820": {
+      "tradeId": "6912820",
+      "status": "不成立",
+      "appliedAt": "2026-04-17T01:15:57.000+09:00",
+      "partnerId": "majtbor",
+      "mainCard": {
+        "member": "石田亜佑美",
+        "stars": "★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "西﨑美空",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        }
+      ]
+    },
+    "6915099": {
+      "tradeId": "6915099",
+      "status": "成立",
+      "appliedAt": "2026-04-17T12:02:41.000+09:00",
+      "partnerId": "Harururu",
+      "mainCard": {
+        "member": "八木栞",
+        "stars": "★",
+        "series": "Hello! Project AUTUMN TOUR 2024 Vol.4",
+        "partnerPossession": "0"
+      },
+      "candidates": [
+        {
+          "member": "段原瑠々",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        },
+        {
+          "member": "江端妃咲",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "0"
+        }
+      ]
+    },
+    "6921308": {
+      "tradeId": "6921308",
+      "status": "成立",
+      "appliedAt": "2026-04-18T00:02:42.000+09:00",
+      "partnerId": "oshi_kawaii",
+      "mainCard": {
+        "member": "小田さくら",
+        "stars": "★★★",
+        "series": "Hello! Project AUTUMN TOUR 2024 Vol.1",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "秋山眞緒",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "0"
+        }
+      ]
+    },
+    "6921512": {
+      "tradeId": "6921512",
+      "status": "申請中",
+      "appliedAt": "2026-04-18T00:09:29.000+09:00",
+      "partnerId": "haachan2435",
+      "mainCard": {
+        "member": "石田亜佑美",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "松永里愛",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        }
+      ]
+    },
+    "6924718": {
+      "tradeId": "6924718",
+      "status": "不成立",
+      "appliedAt": "2026-04-18T10:35:41.000+09:00",
+      "partnerId": "Goma",
+      "mainCard": {
+        "member": "八木栞",
+        "stars": "★★★",
+        "series": "Hello! Project AUTUMN TOUR 2024 Vol.4",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "井上玲音",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "5"
+        },
+        {
+          "member": "中山夏月姫",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        }
+      ]
+    },
+    "6924771": {
+      "tradeId": "6924771",
+      "status": "申請中",
+      "appliedAt": "2026-04-18T10:45:18.000+09:00",
+      "partnerId": "3QBjPxprnW",
+      "mainCard": {
+        "member": "横山玲奈",
+        "stars": "★",
+        "series": "Hello! Project SPRING TOUR 2024 Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "前田こころ",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "有澤一華",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "3"
+        }
+      ]
+    },
+    "6924802": {
+      "tradeId": "6924802",
+      "status": "申請中",
+      "appliedAt": "2026-04-18T10:48:37.000+09:00",
+      "partnerId": "1PUeOBIc3E",
+      "mainCard": {
+        "member": "八木栞",
+        "stars": "★★★",
+        "series": "Hello! Project AUTUMN TOUR 2024 Vol.4",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "井上玲音",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "5"
+        },
+        {
+          "member": "橋迫鈴",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "2"
+        },
+        {
+          "member": "伊勢鈴蘭",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "1"
+        }
+      ]
+    },
+    "6930389": {
+      "tradeId": "6930389",
+      "status": "不成立",
+      "appliedAt": "2026-04-19T00:41:36.000+09:00",
+      "partnerId": "CRo1oMIEeD",
+      "mainCard": {
+        "member": "石田亜佑美",
+        "stars": "★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.1",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "西﨑美空",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        },
+        {
+          "member": "山﨑愛生",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        }
+      ]
+    },
+    "6933086": {
+      "tradeId": "6933086",
+      "status": "不成立",
+      "appliedAt": "2026-04-19T11:26:10.000+09:00",
+      "partnerId": "maru_maru",
+      "mainCard": {
+        "member": "石田亜佑美",
+        "stars": "★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "入江里咲",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        },
+        {
+          "member": "為永幸音",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "1"
+        },
+        {
+          "member": "山﨑愛生",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        }
+      ]
+    },
+    "6933215": {
+      "tradeId": "6933215",
+      "status": "不成立",
+      "appliedAt": "2026-04-19T11:51:02.000+09:00",
+      "partnerId": "MeiPandasan",
+      "mainCard": {
+        "member": "石田亜佑美",
+        "stars": "★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "高瀬くるみ",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "山﨑愛生",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        }
+      ]
+    },
+    "6936129": {
+      "tradeId": "6936129",
+      "status": "不成立",
+      "appliedAt": "2026-04-19T20:05:02.000+09:00",
+      "partnerId": "kazuya",
+      "mainCard": {
+        "member": "石田亜佑美",
+        "stars": "★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "伊勢鈴蘭",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "1"
+        },
+        {
+          "member": "山﨑愛生",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        }
+      ]
+    },
+    "6937078": {
+      "tradeId": "6937078",
+      "status": "不成立",
+      "appliedAt": "2026-04-19T22:46:55.000+09:00",
+      "partnerId": "bNdRZWKQ9i",
+      "mainCard": {
+        "member": "石田亜佑美",
+        "stars": "★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "小林萌花",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "1"
+        },
+        {
+          "member": "伊勢鈴蘭",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "1"
+        },
+        {
+          "member": "河西結心",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        }
+      ]
+    },
+    "6937428": {
+      "tradeId": "6937428",
+      "status": "不成立",
+      "appliedAt": "2026-04-19T23:47:19.000+09:00",
+      "partnerId": "ALISA",
+      "mainCard": {
+        "member": "石田亜佑美",
+        "stars": "★",
+        "series": "Hello! Project ひなフェス 2024 Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "平井美葉",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "9"
+        },
+        {
+          "member": "弓桁朱琴",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        },
+        {
+          "member": "後藤花",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "1"
+        }
+      ]
+    },
+    "6944778": {
+      "tradeId": "6944778",
+      "status": "不成立",
+      "appliedAt": "2026-04-21T00:24:08.000+09:00",
+      "partnerId": "berryzknight",
+      "mainCard": {
+        "member": "石田亜佑美",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.1",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "松本わかな",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "2"
+        },
+        {
+          "member": "石井泉羽",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        },
+        {
+          "member": "下井谷幸穂",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "1"
+        }
+      ]
+    },
+    "6944983": {
+      "tradeId": "6944983",
+      "status": "キャンセル",
+      "appliedAt": "2026-04-21T00:43:37.000+09:00",
+      "partnerId": "tiwawawa",
+      "mainCard": {
+        "member": "八木栞",
+        "stars": "★★★",
+        "series": "Hello! Project AUTUMN TOUR 2024 Vol.4",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "前田こころ",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "岡村美波",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "山﨑愛生",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        }
+      ]
+    },
+    "6945097": {
+      "tradeId": "6945097",
+      "status": "成立",
+      "appliedAt": "2026-04-21T00:58:22.000+09:00",
+      "partnerId": "genuine",
+      "mainCard": {
+        "member": "横山玲奈",
+        "stars": "★",
+        "series": "Hello! Project SPRING TOUR 2024 Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "段原瑠々",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "0"
+        },
+        {
+          "member": "入江里咲",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "0"
+        },
+        {
+          "member": "松永里愛",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        }
+      ]
+    },
+    "6948470": {
+      "tradeId": "6948470",
+      "status": "不成立",
+      "appliedAt": "2026-04-21T15:26:28.000+09:00",
+      "partnerId": "ajaj",
+      "mainCard": {
+        "member": "石田亜佑美",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "川名凜",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "2"
+        },
+        {
+          "member": "岡村ほまれ",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        }
+      ]
+    },
+    "6951893": {
+      "tradeId": "6951893",
+      "status": "成立",
+      "appliedAt": "2026-04-22T00:33:56.000+09:00",
+      "partnerId": "mana_pipi0225",
+      "mainCard": {
+        "member": "横山玲奈",
+        "stars": "★",
+        "series": "Hello! Project AUTUMN TOUR 2024 Vol.1",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "小林萌花",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "0"
+        },
+        {
+          "member": "有澤一華",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "3"
+        },
+        {
+          "member": "井上春華",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        }
+      ]
+    },
+    "6955115": {
+      "tradeId": "6955115",
+      "status": "不成立",
+      "appliedAt": "2026-04-22T14:19:55.000+09:00",
+      "partnerId": "nao420",
+      "mainCard": {
+        "member": "横山玲奈",
+        "stars": "★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "米村姫良々",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        },
+        {
+          "member": "松永里愛",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        },
+        {
+          "member": "広本瑠璃",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "2"
+        }
+      ]
+    },
+    "6955125": {
+      "tradeId": "6955125",
+      "status": "成立",
+      "appliedAt": "2026-04-22T14:23:48.000+09:00",
+      "partnerId": "3JlvoLfnyy",
+      "mainCard": {
+        "member": "石田亜佑美",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.1",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "橋迫鈴",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "1"
+        },
+        {
+          "member": "川名凜",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "2"
+        },
+        {
+          "member": "小野田紗栞",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        }
+      ]
+    },
+    "6957868": {
+      "tradeId": "6957868",
+      "status": "成立",
+      "appliedAt": "2026-04-22T23:39:05.000+09:00",
+      "partnerId": "marunya",
+      "mainCard": {
+        "member": "横山玲奈",
+        "stars": "★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "段原瑠々",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "0"
+        },
+        {
+          "member": "有澤一華",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "3"
+        },
+        {
+          "member": "松永里愛",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        }
+      ]
+    },
+    "6957927": {
+      "tradeId": "6957927",
+      "status": "成立",
+      "appliedAt": "2026-04-22T23:47:36.000+09:00",
+      "partnerId": "i2E0lgV3aB",
+      "mainCard": {
+        "member": "石田亜佑美",
+        "stars": "★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.1",
+        "partnerPossession": "0"
+      },
+      "candidates": [
+        {
+          "member": "段原瑠々",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "0"
+        },
+        {
+          "member": "福田真琳",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "2"
+        }
+      ]
+    },
+    "6958147": {
+      "tradeId": "6958147",
+      "status": "不成立",
+      "appliedAt": "2026-04-23T00:05:28.000+09:00",
+      "partnerId": "atsupon",
+      "mainCard": {
+        "member": "石田亜佑美",
+        "stars": "★",
+        "series": "Hello! Project ひなフェス 2024 Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "河西結心",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        }
+      ]
+    },
+    "6958349": {
+      "tradeId": "6958349",
+      "status": "成立",
+      "appliedAt": "2026-04-23T00:12:24.000+09:00",
+      "partnerId": "jupiterkz",
+      "mainCard": {
+        "member": "小田さくら",
+        "stars": "★",
+        "series": "Hello! Project ひなフェス 2024 Vol.1",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "工藤由愛",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        },
+        {
+          "member": "平山遊季",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "0"
+        }
+      ]
+    },
+    "6959305": {
+      "tradeId": "6959305",
+      "status": "不成立",
+      "appliedAt": "2026-04-23T03:37:13.000+09:00",
+      "partnerId": "x_xb",
+      "mainCard": {
+        "member": "石田亜佑美",
+        "stars": "★",
+        "series": "Hello! Project ひなフェス 2024 Vol.1",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "里吉うたの",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "3"
+        },
+        {
+          "member": "江口紗耶",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "1"
+        },
+        {
+          "member": "井上玲音",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        }
+      ]
+    },
+    "6960776": {
+      "tradeId": "6960776",
+      "status": "成立",
+      "appliedAt": "2026-04-23T11:15:17.000+09:00",
+      "partnerId": "katotyan",
+      "mainCard": {
+        "member": "秋山眞緒",
+        "stars": "★★★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+        "partnerPossession": "0"
+      },
+      "candidates": [
+        {
+          "member": "松本わかな",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "2"
+        }
+      ]
+    },
+    "6960940": {
+      "tradeId": "6960940",
+      "status": "不成立",
+      "appliedAt": "2026-04-23T12:04:54.000+09:00",
+      "partnerId": "51087",
+      "mainCard": {
+        "member": "八木栞",
+        "stars": "★★★",
+        "series": "Hello! Project AUTUMN TOUR 2024 Vol.4",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "平山遊季",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "2"
+        },
+        {
+          "member": "後藤花",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "2"
+        },
+        {
+          "member": "小野田紗栞",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        }
+      ]
+    },
+    "6961032": {
+      "tradeId": "6961032",
+      "status": "不成立",
+      "appliedAt": "2026-04-23T12:10:27.000+09:00",
+      "partnerId": "REIYUME0717",
+      "mainCard": {
+        "member": "川村文乃",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.2",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "岡村美波",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "井上玲音",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "5"
+        },
+        {
+          "member": "山﨑愛生",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        }
+      ]
+    },
+    "6961073": {
+      "tradeId": "6961073",
+      "status": "不成立",
+      "appliedAt": "2026-04-23T12:13:26.000+09:00",
+      "partnerId": "JIN10ROW",
+      "mainCard": {
+        "member": "八木栞",
+        "stars": "★★★",
+        "series": "Hello! Project AUTUMN TOUR 2024 Vol.4",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "高瀬くるみ",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "前田こころ",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "下井谷幸穂",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "1"
+        }
+      ]
+    },
+    "6962155": {
+      "tradeId": "6962155",
+      "status": "成立",
+      "appliedAt": "2026-04-23T16:42:54.000+09:00",
+      "partnerId": "NuuuuuA_koko",
+      "mainCard": {
+        "member": "八木栞",
+        "stars": "★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.2",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "前田こころ",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "1"
+        },
+        {
+          "member": "高瀬くるみ",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "川嶋美楓",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "0"
+        }
+      ]
+    },
+    "6962177": {
+      "tradeId": "6962177",
+      "status": "成立",
+      "appliedAt": "2026-04-23T16:46:30.000+09:00",
+      "partnerId": "k35IyW1K1j",
+      "mainCard": {
+        "member": "小田さくら",
+        "stars": "★",
+        "series": "Hello! Project SPRING TOUR 2024 Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "井上春華",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        },
+        {
+          "member": "福田真琳",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "0"
+        }
+      ]
+    },
+    "6963047": {
+      "tradeId": "6963047",
+      "status": "キャンセル",
+      "appliedAt": "2026-04-23T19:38:42.000+09:00",
+      "partnerId": "rinpan_02",
+      "mainCard": {
+        "member": "川村文乃",
+        "stars": "★★★",
+        "series": "Hello! Project ひなフェス 2024 Vol.2",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "山﨑愛生",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        }
+      ]
+    },
+    "6963064": {
+      "tradeId": "6963064",
+      "status": "不成立",
+      "appliedAt": "2026-04-23T19:41:04.000+09:00",
+      "partnerId": "rinpan_02",
+      "mainCard": {
+        "member": "川村文乃",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.2",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "山﨑愛生",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        }
+      ]
+    },
+    "6964021": {
+      "tradeId": "6964021",
+      "status": "成立",
+      "appliedAt": "2026-04-23T22:13:30.000+09:00",
+      "partnerId": "hadashi27",
+      "mainCard": {
+        "member": "遠藤彩加里",
+        "stars": "★★★",
+        "series": "Hello! Project AUTUMN TOUR 2024 Vol.3",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "段原瑠々",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        }
+      ]
+    },
+    "6965755": {
+      "tradeId": "6965755",
+      "status": "不成立",
+      "appliedAt": "2026-04-24T02:24:18.000+09:00",
+      "partnerId": "SAYUMI_SAMSALA",
+      "mainCard": {
+        "member": "石田亜佑美",
+        "stars": "★",
+        "series": "Hello! Project ひなフェス 2024 Vol.1",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "前田こころ",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "弓桁朱琴",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        }
+      ]
+    },
+    "6965781": {
+      "tradeId": "6965781",
+      "status": "キャンセル",
+      "appliedAt": "2026-04-24T02:33:37.000+09:00",
+      "partnerId": "xVyM0ffFBK",
+      "mainCard": {
+        "member": "小田さくら",
+        "stars": "★",
+        "series": "Hello! Project AUTUMN TOUR 2024 Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "平井美葉",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "9"
+        },
+        {
+          "member": "遠藤彩加里",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        },
+        {
+          "member": "中山夏月姫",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "2"
+        }
+      ]
+    },
+    "6967230": {
+      "tradeId": "6967230",
+      "status": "キャンセル",
+      "appliedAt": "2026-04-24T11:24:31.000+09:00",
+      "partnerId": "sabotty",
+      "mainCard": {
+        "member": "石田亜佑美",
+        "stars": "★",
+        "series": "Hello! Project ひなフェス 2024 Vol.1",
+        "partnerPossession": "3"
+      },
+      "candidates": [
+        {
+          "member": "前田こころ",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "井上春華",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        },
+        {
+          "member": "広本瑠璃",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "2"
+        }
+      ]
+    },
+    "6967252": {
+      "tradeId": "6967252",
+      "status": "不成立",
+      "appliedAt": "2026-04-24T11:33:10.000+09:00",
+      "partnerId": "card",
+      "mainCard": {
+        "member": "上國料萌衣",
+        "stars": "★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.2",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "井上玲音",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "2"
+        },
+        {
+          "member": "西﨑美空",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        },
+        {
+          "member": "山﨑愛生",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "0"
+        }
+      ]
+    },
+    "6967274": {
+      "tradeId": "6967274",
+      "status": "キャンセル",
+      "appliedAt": "2026-04-24T11:41:58.000+09:00",
+      "partnerId": "liupVWmkYz",
+      "mainCard": {
+        "member": "八木栞",
+        "stars": "★★★",
+        "series": "Hello! Project AUTUMN TOUR 2024 Vol.4",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "江口紗耶",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "1"
+        },
+        {
+          "member": "井上玲音",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "5"
+        },
+        {
+          "member": "川名凜",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "2"
+        }
+      ]
+    },
+    "6967618": {
+      "tradeId": "6967618",
+      "status": "成立",
+      "appliedAt": "2026-04-24T12:31:49.000+09:00",
+      "partnerId": "flower",
+      "mainCard": {
+        "member": "上國料萌衣",
+        "stars": "★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.2",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "西﨑美空",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        },
+        {
+          "member": "山﨑愛生",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "0"
+        }
+      ]
+    },
+    "6970856": {
+      "tradeId": "6970856",
+      "status": "成立",
+      "appliedAt": "2026-04-24T16:35:15.000+09:00",
+      "partnerId": "miyoatumetai",
+      "mainCard": {
+        "member": "里吉うたの",
+        "stars": "★★",
+        "series": "BEYOOOOONDS CONCERT 2025 SPRING ～Take Me Out To The BUDOOOOOKAN！「Treasury Island」～",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "里吉うたの",
+          "stars": "★★",
+          "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+          "possession": "1"
+        }
+      ]
+    },
+    "6971555": {
+      "tradeId": "6971555",
+      "status": "不成立",
+      "appliedAt": "2026-04-24T16:48:32.000+09:00",
+      "partnerId": "kurukurukurumin",
+      "mainCard": {
+        "member": "平井美葉",
+        "stars": "★★★",
+        "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "高瀬くるみ",
+          "stars": "★★★",
+          "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+          "possession": "0"
+        }
+      ]
+    },
+    "6974691": {
+      "tradeId": "6974691",
+      "status": "不成立",
+      "appliedAt": "2026-04-24T18:00:58.000+09:00",
+      "partnerId": "yukimidaihuku",
+      "mainCard": {
+        "member": "平井美葉",
+        "stars": "★★★★",
+        "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "岡村美波",
+          "stars": "★★★★",
+          "series": "岡山県備前市×備YOOOOONDS Fanclub Tour in BE前の陣ZIN",
+          "possession": "1"
+        },
+        {
+          "member": "高瀬くるみ",
+          "stars": "★★★★",
+          "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+          "possession": "2"
+        }
+      ]
+    },
+    "6975145": {
+      "tradeId": "6975145",
+      "status": "不成立",
+      "appliedAt": "2026-04-24T18:16:44.000+09:00",
+      "partnerId": "kokonana_",
+      "mainCard": {
+        "member": "平井美葉",
+        "stars": "★★★★",
+        "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+        "partnerPossession": "0"
+      },
+      "candidates": [
+        {
+          "member": "前田こころ",
+          "stars": "★★★★",
+          "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+          "possession": "0"
+        }
+      ]
+    },
+    "6975306": {
+      "tradeId": "6975306",
+      "status": "キャンセル",
+      "appliedAt": "2026-04-24T18:22:36.000+09:00",
+      "partnerId": "bbmr24",
+      "mainCard": {
+        "member": "平井美葉",
+        "stars": "★★★",
+        "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+        "partnerPossession": "0"
+      },
+      "candidates": [
+        {
+          "member": "橋迫鈴",
+          "stars": "★★★",
+          "series": "竹内朱莉×アンジュルム 新春万福",
+          "possession": "1"
+        },
+        {
+          "member": "上村麗菜",
+          "stars": "★★★",
+          "series": "ロージークロニクル FCイベント2024 ～ Rosy Christmas! ～",
+          "possession": "1"
+        }
+      ]
+    },
+    "6975338": {
+      "tradeId": "6975338",
+      "status": "成立",
+      "appliedAt": "2026-04-24T18:23:43.000+09:00",
+      "partnerId": "Yocchi",
+      "mainCard": {
+        "member": "平井美葉",
+        "stars": "★★★★",
+        "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+        "partnerPossession": "0"
+      },
+      "candidates": [
+        {
+          "member": "前田こころ",
+          "stars": "★★★★",
+          "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+          "possession": "0"
+        },
+        {
+          "member": "高瀬くるみ",
+          "stars": "★★★★",
+          "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+          "possession": "2"
+        }
+      ]
+    },
+    "6975419": {
+      "tradeId": "6975419",
+      "status": "成立",
+      "appliedAt": "2026-04-24T18:26:25.000+09:00",
+      "partnerId": "haru_beyooooo",
+      "mainCard": {
+        "member": "平井美葉",
+        "stars": "★★★",
+        "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+        "partnerPossession": "0"
+      },
+      "candidates": [
+        {
+          "member": "前田こころ",
+          "stars": "★★★",
+          "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+          "possession": "0"
+        }
+      ]
+    },
+    "6975477": {
+      "tradeId": "6975477",
+      "status": "成立",
+      "appliedAt": "2026-04-24T18:28:13.000+09:00",
+      "partnerId": "yagituchi",
+      "mainCard": {
+        "member": "平井美葉",
+        "stars": "★★★",
+        "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+        "partnerPossession": "0"
+      },
+      "candidates": [
+        {
+          "member": "高瀬くるみ",
+          "stars": "★★★",
+          "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+          "possession": "0"
+        }
+      ]
+    },
+    "6976078": {
+      "tradeId": "6976078",
+      "status": "成立",
+      "appliedAt": "2026-04-24T18:46:16.000+09:00",
+      "partnerId": "XCY5GAlLtR",
+      "mainCard": {
+        "member": "高瀬くるみ",
+        "stars": "★★",
+        "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "岡村美波",
+          "stars": "★★",
+          "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+          "possession": "1"
+        }
+      ]
+    },
+    "6977130": {
+      "tradeId": "6977130",
+      "status": "キャンセル",
+      "appliedAt": "2026-04-24T19:22:48.000+09:00",
+      "partnerId": "mz4yokan",
+      "mainCard": {
+        "member": "平井美葉",
+        "stars": "★★★",
+        "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "小林萌花",
+          "stars": "★★★",
+          "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+          "possession": "0"
+        }
+      ]
+    },
+    "6977278": {
+      "tradeId": "6977278",
+      "status": "成立",
+      "appliedAt": "2026-04-24T19:27:29.000+09:00",
+      "partnerId": "K_SHU",
+      "mainCard": {
+        "member": "高瀬くるみ",
+        "stars": "★★",
+        "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "西田汐里",
+          "stars": "★★",
+          "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+          "possession": "1"
+        }
+      ]
+    },
+    "6977811": {
+      "tradeId": "6977811",
+      "status": "キャンセル",
+      "appliedAt": "2026-04-24T19:47:14.000+09:00",
+      "partnerId": "KK_EH",
+      "mainCard": {
+        "member": "西田汐里",
+        "stars": "★★",
+        "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "前田こころ",
+          "stars": "★★",
+          "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+          "possession": "1"
+        }
+      ]
+    },
+    "6978101": {
+      "tradeId": "6978101",
+      "status": "成立",
+      "appliedAt": "2026-04-24T19:58:30.000+09:00",
+      "partnerId": "tmk556",
+      "mainCard": {
+        "member": "西田汐里",
+        "stars": "★★",
+        "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "前田こころ",
+          "stars": "★★",
+          "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+          "possession": "1"
+        }
+      ]
+    },
+    "6978581": {
+      "tradeId": "6978581",
+      "status": "不成立",
+      "appliedAt": "2026-04-24T20:19:00.000+09:00",
+      "partnerId": "hhufwituiW",
+      "mainCard": {
+        "member": "石田亜佑美",
+        "stars": "★",
+        "series": "Hello! Project ひなフェス 2024 Vol.1",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "清野桃々姫",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "1"
+        },
+        {
+          "member": "秋山眞緒",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "2"
+        },
+        {
+          "member": "工藤由愛",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        }
+      ]
+    },
+    "6980113": {
+      "tradeId": "6980113",
+      "status": "成立",
+      "appliedAt": "2026-04-24T21:23:18.000+09:00",
+      "partnerId": "okmrmnm313",
+      "mainCard": {
+        "member": "佐々木莉佳子",
+        "stars": "★★",
+        "series": "佐々木莉佳子in Thailand 2026",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "西田汐里",
+          "stars": "★★",
+          "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+          "possession": "1"
+        }
+      ]
+    },
+    "6980460": {
+      "tradeId": "6980460",
+      "status": "成立",
+      "appliedAt": "2026-04-24T21:38:58.000+09:00",
+      "partnerId": "utmy",
+      "mainCard": {
+        "member": "岡村美波",
+        "stars": "★★",
+        "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+        "partnerPossession": "0"
+      },
+      "candidates": [
+        {
+          "member": "里吉うたの",
+          "stars": "★★",
+          "series": "岡山県備前市×備YOOOOONDS Fanclub Tour in BE前の陣ZIN",
+          "possession": "2"
+        }
+      ]
+    },
+    "6980757": {
+      "tradeId": "6980757",
+      "status": "不成立",
+      "appliedAt": "2026-04-24T21:51:15.000+09:00",
+      "partnerId": "HPECtomo",
+      "mainCard": {
+        "member": "小田さくら",
+        "stars": "★",
+        "series": "Hello! Project AUTUMN TOUR 2024 Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "里吉うたの",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "3"
+        },
+        {
+          "member": "井上春華",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        },
+        {
+          "member": "広本瑠璃",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "2"
+        }
+      ]
+    },
+    "6982753": {
+      "tradeId": "6982753",
+      "status": "キャンセル",
+      "appliedAt": "2026-04-24T23:23:51.000+09:00",
+      "partnerId": "kazunoko",
+      "mainCard": {
+        "member": "上國料萌衣",
+        "stars": "★★★★",
+        "series": "アンジュルム 10th Anniversary tour 2025春 「桜梅桃李」上國料萌衣 FINAL ～お先はまっキラ！～",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "平山遊季",
+          "stars": "★★★★",
+          "series": "HAPPY BIRTHDAY 平山遊季 2025",
+          "possession": "1"
+        }
+      ]
+    },
+    "6983761": {
+      "tradeId": "6983761",
+      "status": "不成立",
+      "appliedAt": "2026-04-25T00:09:34.000+09:00",
+      "partnerId": "UJvsWBx19i",
+      "mainCard": {
+        "member": "岡村美波",
+        "stars": "★★★",
+        "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "小林萌花",
+          "stars": "★★★",
+          "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+          "possession": "0"
+        }
+      ]
+    },
+    "6984116": {
+      "tradeId": "6984116",
+      "status": "不成立",
+      "appliedAt": "2026-04-25T00:21:48.000+09:00",
+      "partnerId": "kurumin23",
+      "mainCard": {
+        "member": "小林萌花",
+        "stars": "★★★★★",
+        "series": "HAPPY BIRTHDAY 小林萌花",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "高瀬くるみ",
+          "stars": "★★★★★",
+          "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+          "possession": "1"
+        }
+      ]
+    },
+    "6984516": {
+      "tradeId": "6984516",
+      "status": "不成立",
+      "appliedAt": "2026-04-25T00:39:02.000+09:00",
+      "partnerId": "NakanoStation",
+      "mainCard": {
+        "member": "牧野真莉愛",
+        "stars": "★★★",
+        "series": "Hello! Project SPRING TOUR 2024 Vol.1",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "福田真琳",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        }
+      ]
+    },
+    "6984581": {
+      "tradeId": "6984581",
+      "status": "成立",
+      "appliedAt": "2026-04-25T00:42:23.000+09:00",
+      "partnerId": "NakanoStation",
+      "mainCard": {
+        "member": "松本わかな",
+        "stars": "★★★",
+        "series": "Hello! Project SPRING TOUR 2024 Vol.2",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "福田真琳",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        }
+      ]
+    },
+    "6985137": {
+      "tradeId": "6985137",
+      "status": "不成立",
+      "appliedAt": "2026-04-25T01:37:16.000+09:00",
+      "partnerId": "utanochan",
+      "mainCard": {
+        "member": "岡村美波",
+        "stars": "★★★",
+        "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "小林萌花",
+          "stars": "★★★",
+          "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+          "possession": "0"
+        }
+      ]
+    },
+    "6985179": {
+      "tradeId": "6985179",
+      "status": "キャンセル",
+      "appliedAt": "2026-04-25T01:43:19.000+09:00",
+      "partnerId": "rrWDISVloy",
+      "mainCard": {
+        "member": "八木栞",
+        "stars": "★★★",
+        "series": "Hello! Project AUTUMN TOUR 2024 Vol.4",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "石井泉羽",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        },
+        {
+          "member": "豫風瑠乃",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        },
+        {
+          "member": "西﨑美空",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        }
+      ]
+    },
+    "6985374": {
+      "tradeId": "6985374",
+      "status": "キャンセル",
+      "appliedAt": "2026-04-25T02:19:33.000+09:00",
+      "partnerId": "5b05e2bOgB",
+      "mainCard": {
+        "member": "小田さくら",
+        "stars": "★",
+        "series": "Hello! Project AUTUMN TOUR 2024 Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "有澤一華",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "2"
+        },
+        {
+          "member": "平井美葉",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "10"
+        },
+        {
+          "member": "広本瑠璃",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "2"
+        }
+      ]
+    },
+    "6988585": {
+      "tradeId": "6988585",
+      "status": "不成立",
+      "appliedAt": "2026-04-25T10:33:54.000+09:00",
+      "partnerId": "Kaocham",
+      "mainCard": {
+        "member": "石田亜佑美",
+        "stars": "★",
+        "series": "Hello! Project ひなフェス 2024 Vol.1",
+        "partnerPossession": "3"
+      },
+      "candidates": [
+        {
+          "member": "西田汐里",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "1"
+        },
+        {
+          "member": "秋山眞緒",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        },
+        {
+          "member": "米村姫良々",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        }
+      ]
+    },
+    "6989105": {
+      "tradeId": "6989105",
+      "status": "不成立",
+      "appliedAt": "2026-04-25T11:27:43.000+09:00",
+      "partnerId": "ksbxmkxiSc",
+      "mainCard": {
+        "member": "石田亜佑美",
+        "stars": "★",
+        "series": "Hello! Project ひなフェス 2024 Vol.1",
+        "partnerPossession": "3"
+      },
+      "candidates": [
+        {
+          "member": "西田汐里",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "1"
+        },
+        {
+          "member": "中山夏月姫",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "2"
+        },
+        {
+          "member": "広本瑠璃",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        }
+      ]
+    },
+    "6989727": {
+      "tradeId": "6989727",
+      "status": "不成立",
+      "appliedAt": "2026-04-25T12:17:10.000+09:00",
+      "partnerId": "10ib205y",
+      "mainCard": {
+        "member": "岡村美波",
+        "stars": "★★★",
+        "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "小林萌花",
+          "stars": "★★★",
+          "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+          "possession": "0"
+        }
+      ]
+    },
+    "6991517": {
+      "tradeId": "6991517",
+      "status": "成立",
+      "appliedAt": "2026-04-25T15:53:12.000+09:00",
+      "partnerId": "bravet",
+      "mainCard": {
+        "member": "岡村美波",
+        "stars": "★★★",
+        "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+        "partnerPossession": "0"
+      },
+      "candidates": [
+        {
+          "member": "小林萌花",
+          "stars": "★★★",
+          "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+          "possession": "0"
+        }
+      ]
+    },
+    "6991699": {
+      "tradeId": "6991699",
+      "status": "不成立",
+      "appliedAt": "2026-04-25T16:18:10.000+09:00",
+      "partnerId": "kazuya",
+      "mainCard": {
+        "member": "川村文乃",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.2",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "入江里咲",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        },
+        {
+          "member": "伊勢鈴蘭",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "1"
+        },
+        {
+          "member": "山﨑愛生",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        }
+      ]
+    },
+    "6991751": {
+      "tradeId": "6991751",
+      "status": "不成立",
+      "appliedAt": "2026-04-25T16:25:42.000+09:00",
+      "partnerId": "mijinko03",
+      "mainCard": {
+        "member": "石田亜佑美",
+        "stars": "★",
+        "series": "Hello! Project ひなフェス 2024 Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "里吉うたの",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "有澤一華",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        },
+        {
+          "member": "井上春華",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        }
+      ]
+    },
+    "6993486": {
+      "tradeId": "6993486",
+      "status": "キャンセル",
+      "appliedAt": "2026-04-25T20:43:11.000+09:00",
+      "partnerId": "zumi_yume",
+      "mainCard": {
+        "member": "石田亜佑美",
+        "stars": "★",
+        "series": "Hello! Project ひなフェス 2024 Vol.1",
+        "partnerPossession": "5"
+      },
+      "candidates": [
+        {
+          "member": "里吉うたの",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "遠藤彩加里",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        },
+        {
+          "member": "工藤由愛",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        }
+      ]
+    },
+    "6999141": {
+      "tradeId": "6999141",
+      "status": "キャンセル",
+      "appliedAt": "2026-04-26T11:32:46.000+09:00",
+      "partnerId": "LNPcYwraJu",
+      "mainCard": {
+        "member": "川村文乃",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.2",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "小田さくら",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        }
+      ]
+    },
+    "7004312": {
+      "tradeId": "7004312",
+      "status": "成立",
+      "appliedAt": "2026-04-26T23:04:07.000+09:00",
+      "partnerId": "nightwing7",
+      "mainCard": {
+        "member": "平山遊季",
+        "stars": "★★",
+        "series": "Hello! Project Official Shop ＜Autumn＞ アンジュルム",
+        "partnerPossession": "0"
+      },
+      "candidates": [
+        {
+          "member": "為永幸音",
+          "stars": "★★",
+          "series": "アンジュルムFCイベント2024 ～Angermerry Xmas～",
+          "possession": "1"
+        }
+      ]
+    },
+    "7004876": {
+      "tradeId": "7004876",
+      "status": "不成立",
+      "appliedAt": "2026-04-27T00:08:13.000+09:00",
+      "partnerId": "popopon",
+      "mainCard": {
+        "member": "川村文乃",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.2",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "川嶋美楓",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "2"
+        },
+        {
+          "member": "後藤花",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "2"
+        },
+        {
+          "member": "秋山眞緒",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        }
+      ]
+    },
+    "7005005": {
+      "tradeId": "7005005",
+      "status": "申請中",
+      "appliedAt": "2026-04-27T00:12:58.000+09:00",
+      "partnerId": "HQ29hv5IrE",
+      "mainCard": {
+        "member": "植村あかり",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.3",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "石井泉羽",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        },
+        {
+          "member": "筒井澪心",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "3"
+        },
+        {
+          "member": "川名凜",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "2"
+        }
+      ]
+    },
+    "7006983": {
+      "tradeId": "7006983",
+      "status": "成立",
+      "appliedAt": "2026-04-27T08:41:53.000+09:00",
+      "partnerId": "Shiro",
+      "mainCard": {
+        "member": "後藤花",
+        "stars": "★★",
+        "series": "Hello! Project Official Shop ＜Autumn＞ アンジュルム",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "平井美葉",
+          "stars": "★★",
+          "series": "岡山県備前市×備YOOOOONDS Fanclub Tour in BE前の陣ZIN",
+          "possession": "3"
+        },
+        {
+          "member": "下井谷幸穂",
+          "stars": "★★",
+          "series": "アンジュルム 10th Anniversary tour 2025春 「桜梅桃李」上國料萌衣 FINAL ～お先はまっキラ！～",
+          "possession": "1"
+        }
+      ]
+    },
+    "7008899": {
+      "tradeId": "7008899",
+      "status": "申請中",
+      "appliedAt": "2026-04-27T14:45:11.000+09:00",
+      "partnerId": "2FIkxic04U",
+      "mainCard": {
+        "member": "川村文乃",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.2",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "石山咲良",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "2"
+        },
+        {
+          "member": "井上玲音",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "5"
+        },
+        {
+          "member": "後藤花",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "2"
+        }
+      ]
+    },
+    "7012076": {
+      "tradeId": "7012076",
+      "status": "不成立",
+      "appliedAt": "2026-04-27T23:41:04.000+09:00",
+      "partnerId": "oryo_mline",
+      "mainCard": {
+        "member": "長野桃羽",
+        "stars": "★★",
+        "series": "Hello! Project Official Shop ＜Autumn＞ アンジュルム",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "為永幸音",
+          "stars": "★★",
+          "series": "アンジュルムFCイベント2024 ～Angermerry Xmas～",
+          "possession": "1"
+        }
+      ]
+    },
+    "7012535": {
+      "tradeId": "7012535",
+      "status": "不成立",
+      "appliedAt": "2026-04-28T00:11:39.000+09:00",
+      "partnerId": "wmEC3nj3hB",
+      "mainCard": {
+        "member": "小田さくら",
+        "stars": "★",
+        "series": "Hello! Project AUTUMN TOUR 2024 Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "前田こころ",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        }
+      ]
+    },
+    "7015020": {
+      "tradeId": "7015020",
+      "status": "成立",
+      "appliedAt": "2026-04-28T10:14:15.000+09:00",
+      "partnerId": "beyond_omochi",
+      "mainCard": {
+        "member": "小田さくら",
+        "stars": "★",
+        "series": "Hello! Project AUTUMN TOUR 2024 Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "前田こころ",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "里吉うたの",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "広本瑠璃",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "0"
+        }
+      ]
+    },
+    "7015086": {
+      "tradeId": "7015086",
+      "status": "不成立",
+      "appliedAt": "2026-04-28T10:30:28.000+09:00",
+      "partnerId": "nm5TAvuJVp",
+      "mainCard": {
+        "member": "長野桃羽",
+        "stars": "★★",
+        "series": "Hello! Project Official Shop ＜Autumn＞ アンジュルム",
+        "partnerPossession": "3"
+      },
+      "candidates": [
+        {
+          "member": "江口紗耶",
+          "stars": "★★",
+          "series": "BEYOOOOONDS CONCERT 2024 AUTUMN「DISCOOOOOTHEQUE BUDOOOOOKAN」",
+          "possession": "2"
+        },
+        {
+          "member": "宮本佳林＆平井美葉",
+          "stars": "★★",
+          "series": "エムハロイベント vol.4 ～宮本佳林×BEYOOOOONDS/SeasoningS 平井美葉～",
+          "possession": "7"
+        },
+        {
+          "member": "平井美葉",
+          "stars": "★★",
+          "series": "岡山県備前市×備YOOOOONDS Fanclub Tour in BE前の陣ZIN",
+          "possession": "3"
+        }
+      ]
+    },
+    "7017314": {
+      "tradeId": "7017314",
+      "status": "成立",
+      "appliedAt": "2026-04-28T17:56:01.000+09:00",
+      "partnerId": "UBU3",
+      "mainCard": {
+        "member": "小林萌花",
+        "stars": "★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "前田こころ",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "秋山眞緒",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        }
+      ]
+    },
+    "7017340": {
+      "tradeId": "7017340",
+      "status": "成立",
+      "appliedAt": "2026-04-28T18:00:35.000+09:00",
+      "partnerId": "Usapan",
+      "mainCard": {
+        "member": "長野桃羽",
+        "stars": "★★",
+        "series": "Hello! Project Official Shop ＜Autumn＞ アンジュルム",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "平井美葉",
+          "stars": "★★",
+          "series": "BEYOOOOONDS CONCERT 2025 SPRING ～Take Me Out To The BUDOOOOOKAN！「Treasury Island」～",
+          "possession": "11"
+        },
+        {
+          "member": "平井美葉",
+          "stars": "★★",
+          "series": "エムハロイベント vol.4 ～宮本佳林×BEYOOOOONDS/SeasoningS 平井美葉～",
+          "possession": "3"
+        },
+        {
+          "member": "平井美葉",
+          "stars": "★★",
+          "series": "岡山県備前市×備YOOOOONDS Fanclub Tour in BE前の陣ZIN",
+          "possession": "5"
+        }
+      ]
+    },
+    "7017471": {
+      "tradeId": "7017471",
+      "status": "成立",
+      "appliedAt": "2026-04-28T18:30:21.000+09:00",
+      "partnerId": "3s5RlIZ4yD",
+      "mainCard": {
+        "member": "伊勢鈴蘭",
+        "stars": "★★",
+        "series": "Hello! Project Official Shop ＜Autumn＞ アンジュルム",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "平井美葉",
+          "stars": "★★",
+          "series": "BEYOOOOONDS CONCERT 2025 SPRING ～Take Me Out To The BUDOOOOOKAN！「Treasury Island」～",
+          "possession": "11"
+        }
+      ]
+    },
+    "7017539": {
+      "tradeId": "7017539",
+      "status": "成立",
+      "appliedAt": "2026-04-28T18:44:54.000+09:00",
+      "partnerId": "NO_022",
+      "mainCard": {
+        "member": "小林萌花",
+        "stars": "★★",
+        "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "高瀬くるみ",
+          "stars": "★★",
+          "series": "岡山県備前市×備YOOOOONDS Fanclub Tour in BE前の陣ZIN",
+          "possession": "1"
+        }
+      ]
+    },
+    "7017893": {
+      "tradeId": "7017893",
+      "status": "不成立",
+      "appliedAt": "2026-04-28T19:50:38.000+09:00",
+      "partnerId": "love_hello_rkts",
+      "mainCard": {
+        "member": "石田亜佑美",
+        "stars": "★",
+        "series": "Hello! Project ひなフェス 2024 Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "井上春華",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "0"
+        }
+      ]
+    },
+    "7019212": {
+      "tradeId": "7019212",
+      "status": "成立",
+      "appliedAt": "2026-04-28T22:58:08.000+09:00",
+      "partnerId": "miimimasa",
+      "mainCard": {
+        "member": "江端妃咲",
+        "stars": "★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "有澤一華",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        },
+        {
+          "member": "平井美葉",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "10"
+        },
+        {
+          "member": "小田さくら",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "2"
+        }
+      ]
+    },
+    "7020737": {
+      "tradeId": "7020737",
+      "status": "成立",
+      "appliedAt": "2026-04-29T01:09:08.000+09:00",
+      "partnerId": "mina_aya",
+      "mainCard": {
+        "member": "段原瑠々",
+        "stars": "★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "広本瑠璃",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "0"
+        }
+      ]
+    },
+    "7021094": {
+      "tradeId": "7021094",
+      "status": "成立",
+      "appliedAt": "2026-04-29T02:39:55.000+09:00",
+      "partnerId": "maroooooonds",
+      "mainCard": {
+        "member": "松本わかな",
+        "stars": "★★",
+        "series": "Hello! Project Official Shop ＜Autumn＞ アンジュルム",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "平井美葉",
+          "stars": "★★",
+          "series": "BEYOOOOONDS FCイベント2025 ～クリスマスの陣ZIN～",
+          "possession": "3"
+        }
+      ]
+    },
+    "7023233": {
+      "tradeId": "7023233",
+      "status": "キャンセル",
+      "appliedAt": "2026-04-29T11:24:40.000+09:00",
+      "partnerId": "baronnobi",
+      "mainCard": {
+        "member": "石田亜佑美",
+        "stars": "★",
+        "series": "Hello! Project ひなフェス 2024 Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "中山夏月姫",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        },
+        {
+          "member": "弓桁朱琴",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        },
+        {
+          "member": "小田さくら",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "2"
+        }
+      ]
+    },
+    "7023249": {
+      "tradeId": "7023249",
+      "status": "成立",
+      "appliedAt": "2026-04-29T11:28:19.000+09:00",
+      "partnerId": "mina_aya",
+      "mainCard": {
+        "member": "井上玲音",
+        "stars": "★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "広本瑠璃",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "0"
+        }
+      ]
+    },
+    "7024098": {
+      "tradeId": "7024098",
+      "status": "成立",
+      "appliedAt": "2026-04-29T13:02:07.000+09:00",
+      "partnerId": "obWp9kgqLQ",
+      "mainCard": {
+        "member": "入江里咲",
+        "stars": "★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "前田こころ",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "有澤一華",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        },
+        {
+          "member": "小野田紗栞",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        }
+      ]
+    },
+    "7024239": {
+      "tradeId": "7024239",
+      "status": "不成立",
+      "appliedAt": "2026-04-29T13:24:30.000+09:00",
+      "partnerId": "_uvu_",
+      "mainCard": {
+        "member": "米村姫良々",
+        "stars": "★★",
+        "series": "OCHA NORMA FCイベント2026 ～OCHA NORMAの間9 アチアチ注意報♡恋のチョコレートティー～",
+        "partnerPossession": "3"
+      },
+      "candidates": [
+        {
+          "member": "松永里愛",
+          "stars": "★★",
+          "series": "Juice=Juice FCイベント2026 ～Miracle×Juice×Box×結成Party！～",
+          "possession": "1"
+        },
+        {
+          "member": "入江里咲",
+          "stars": "★★",
+          "series": "Juice=Juice FCイベント2026 ～Miracle×Juice×Box×結成Party！～",
+          "possession": "1"
+        },
+        {
+          "member": "石山咲良",
+          "stars": "★★",
+          "series": "Juice=Juice FCイベント2026 ～Miracle×Juice×Box×結成Party！～",
+          "possession": "1"
+        }
+      ]
+    },
+    "7024274": {
+      "tradeId": "7024274",
+      "status": "成立",
+      "appliedAt": "2026-04-29T13:30:00.000+09:00",
+      "partnerId": "12Mt31",
+      "mainCard": {
+        "member": "平山遊季",
+        "stars": "★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "里吉うたの",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "1"
+        },
+        {
+          "member": "遠藤彩加里",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        }
+      ]
+    },
+    "7025440": {
+      "tradeId": "7025440",
+      "status": "キャンセル",
+      "appliedAt": "2026-04-29T17:00:41.000+09:00",
+      "partnerId": "good_p_sato_NO2",
+      "mainCard": {
+        "member": "松本わかな",
+        "stars": "★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+        "partnerPossession": "5"
+      },
+      "candidates": [
+        {
+          "member": "村田結生",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        },
+        {
+          "member": "中山夏月姫",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        }
+      ]
+    },
+    "7025492": {
+      "tradeId": "7025492",
+      "status": "成立",
+      "appliedAt": "2026-04-29T17:10:52.000+09:00",
+      "partnerId": "good_p_sato_NO2",
+      "mainCard": {
+        "member": "松本わかな",
+        "stars": "★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+        "partnerPossession": "5"
+      },
+      "candidates": [
+        {
+          "member": "中山夏月姫",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        },
+        {
+          "member": "土居楓奏",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "0"
+        }
+      ]
+    },
+    "7025659": {
+      "tradeId": "7025659",
+      "status": "不成立",
+      "appliedAt": "2026-04-29T17:45:02.000+09:00",
+      "partnerId": "Guriri",
+      "mainCard": {
+        "member": "米村姫良々",
+        "stars": "★★",
+        "series": "OCHA NORMA FCイベント2026 ～OCHA NORMAの間9 アチアチ注意報♡恋のチョコレートティー～",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "高瀬くるみ",
+          "stars": "★★",
+          "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+          "possession": "1"
+        }
+      ]
+    },
+    "7025865": {
+      "tradeId": "7025865",
+      "status": "成立",
+      "appliedAt": "2026-04-29T18:26:47.000+09:00",
+      "partnerId": "jyun",
+      "mainCard": {
+        "member": "伊勢鈴蘭",
+        "stars": "★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "村田結生",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        },
+        {
+          "member": "井上春華",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "0"
+        }
+      ]
+    },
+    "7025918": {
+      "tradeId": "7025918",
+      "status": "成立",
+      "appliedAt": "2026-04-29T18:38:27.000+09:00",
+      "partnerId": "g4oyl4S3BX",
+      "mainCard": {
+        "member": "米村姫良々",
+        "stars": "★★",
+        "series": "OCHA NORMA FCイベント2026 ～OCHA NORMAの間9 アチアチ注意報♡恋のチョコレートティー～",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "小林萌花",
+          "stars": "★★",
+          "series": "BEYOOOOONDS FCイベント2025 ～クリスマスの陣ZIN～",
+          "possession": "2"
+        },
+        {
+          "member": "小林萌花",
+          "stars": "★★",
+          "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+          "possession": "1"
+        }
+      ]
+    },
+    "7026315": {
+      "tradeId": "7026315",
+      "status": "不成立",
+      "appliedAt": "2026-04-29T19:53:06.000+09:00",
+      "partnerId": "riri30",
+      "mainCard": {
+        "member": "福田真琳",
+        "stars": "★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+        "partnerPossession": "3"
+      },
+      "candidates": [
+        {
+          "member": "中山夏月姫",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        }
+      ]
+    },
+    "7027665": {
+      "tradeId": "7027665",
+      "status": "成立",
+      "appliedAt": "2026-04-29T23:35:21.000+09:00",
+      "partnerId": "Jamka",
+      "mainCard": {
+        "member": "福田真琳",
+        "stars": "★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+        "partnerPossession": "3"
+      },
+      "candidates": [
+        {
+          "member": "村田結生",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        },
+        {
+          "member": "中山夏月姫",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        }
+      ]
+    },
+    "7028562": {
+      "tradeId": "7028562",
+      "status": "成立",
+      "appliedAt": "2026-04-30T00:36:22.000+09:00",
+      "partnerId": "Jamka",
+      "mainCard": {
+        "member": "岡村美波",
+        "stars": "★★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "村田結生",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        },
+        {
+          "member": "後藤花",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "1"
+        },
+        {
+          "member": "北原もも",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        }
+      ]
+    },
+    "7028914": {
+      "tradeId": "7028914",
+      "status": "不成立",
+      "appliedAt": "2026-04-30T01:27:25.000+09:00",
+      "partnerId": "kodomokonbu",
+      "mainCard": {
+        "member": "植村あかり",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.3",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "井上玲音",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "5"
+        },
+        {
+          "member": "下井谷幸穂",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "1"
+        }
+      ]
+    },
+    "7030464": {
+      "tradeId": "7030464",
+      "status": "成立",
+      "appliedAt": "2026-04-30T10:05:23.000+09:00",
+      "partnerId": "Jamka",
+      "mainCard": {
+        "member": "平井美葉",
+        "stars": "★★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "村田結生",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        },
+        {
+          "member": "北原もも",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        }
+      ]
+    },
+    "7032094": {
+      "tradeId": "7032094",
+      "status": "成立",
+      "appliedAt": "2026-04-30T16:09:29.000+09:00",
+      "partnerId": "Ishichan524",
+      "mainCard": {
+        "member": "西田汐里",
+        "stars": "★★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "井上玲音",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        }
+      ]
+    },
+    "7032151": {
+      "tradeId": "7032151",
+      "status": "キャンセル",
+      "appliedAt": "2026-04-30T16:19:19.000+09:00",
+      "partnerId": "9G64VgCW0b",
+      "mainCard": {
+        "member": "北川莉央",
+        "stars": "★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "中山夏月姫",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        }
+      ]
+    },
+    "7032174": {
+      "tradeId": "7032174",
+      "status": "成立",
+      "appliedAt": "2026-04-30T16:23:31.000+09:00",
+      "partnerId": "hp23sn",
+      "mainCard": {
+        "member": "石田亜佑美",
+        "stars": "★",
+        "series": "Hello! Project ひなフェス 2024 Vol.1",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "平井美葉",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "10"
+        },
+        {
+          "member": "伊勢鈴蘭",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "1"
+        }
+      ]
+    },
+    "7032201": {
+      "tradeId": "7032201",
+      "status": "成立",
+      "appliedAt": "2026-04-30T16:29:19.000+09:00",
+      "partnerId": "camellia_fight",
+      "mainCard": {
+        "member": "江口紗耶",
+        "stars": "★★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "福田真琳",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        }
+      ]
+    },
+    "7032574": {
+      "tradeId": "7032574",
+      "status": "不成立",
+      "appliedAt": "2026-04-30T17:51:41.000+09:00",
+      "partnerId": "sawa_15",
+      "mainCard": {
+        "member": "北原もも",
+        "stars": "★★",
+        "series": "OCHA NORMA FCイベント2026 ～OCHA NORMAの間9 アチアチ注意報♡恋のチョコレートティー～",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "松永里愛",
+          "stars": "★★",
+          "series": "Juice=Juice FCイベント2026 ～Miracle×Juice×Box×結成Party！～",
+          "possession": "1"
+        }
+      ]
+    },
+    "7032609": {
+      "tradeId": "7032609",
+      "status": "成立",
+      "appliedAt": "2026-04-30T18:00:49.000+09:00",
+      "partnerId": "chiii",
+      "mainCard": {
+        "member": "伊勢鈴蘭",
+        "stars": "★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "里吉うたの",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "1"
+        },
+        {
+          "member": "小野田紗栞",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "0"
+        }
+      ]
+    },
+    "7032967": {
+      "tradeId": "7032967",
+      "status": "不成立",
+      "appliedAt": "2026-04-30T19:01:11.000+09:00",
+      "partnerId": "suepi",
+      "mainCard": {
+        "member": "北原もも",
+        "stars": "★★",
+        "series": "OCHA NORMA FCイベント2026 ～OCHA NORMAの間9 アチアチ注意報♡恋のチョコレートティー～",
+        "partnerPossession": "7"
+      },
+      "candidates": [
+        {
+          "member": "清野桃々姫",
+          "stars": "★★",
+          "series": "BEYOOOOONDS FCイベント2025～冷やしビヨ始めましたの陣ZIN～",
+          "possession": "2"
+        },
+        {
+          "member": "清野桃々姫",
+          "stars": "★★",
+          "series": "BEYOOOOONDS CONCERT 2025 SPRING ～Take Me Out To The BUDOOOOOKAN！「Treasury Island」～",
+          "possession": "3"
+        },
+        {
+          "member": "平井美葉",
+          "stars": "★★",
+          "series": "岡山県備前市×備YOOOOONDS Fanclub Tour in BE前の陣ZIN",
+          "possession": "4"
+        }
+      ]
+    },
+    "7034391": {
+      "tradeId": "7034391",
+      "status": "成立",
+      "appliedAt": "2026-04-30T22:43:29.000+09:00",
+      "partnerId": "PandaParadaisu",
+      "mainCard": {
+        "member": "島倉りか",
+        "stars": "★★",
+        "series": "Graduation 〜島倉りか from BEYOOOOONDS〜",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "高瀬くるみ",
+          "stars": "★★",
+          "series": "BEYOOOOONDS in BANGKOOOOOK !!!!!",
+          "possession": "1"
+        }
+      ]
+    },
+    "7034659": {
+      "tradeId": "7034659",
+      "status": "不成立",
+      "appliedAt": "2026-04-30T23:21:14.000+09:00",
+      "partnerId": "anamon",
+      "mainCard": {
+        "member": "北原もも",
+        "stars": "★★",
+        "series": "OCHA NORMA FCイベント2026 ～OCHA NORMAの間9 アチアチ注意報♡恋のチョコレートティー～",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "為永幸音",
+          "stars": "★★",
+          "series": "アンジュルムFCイベント2024 ～Angermerry Xmas～",
+          "possession": "0"
+        }
+      ]
+    },
+    "7034693": {
+      "tradeId": "7034693",
+      "status": "キャンセル",
+      "appliedAt": "2026-04-30T23:27:54.000+09:00",
+      "partnerId": "ked127",
+      "mainCard": {
+        "member": "川村文乃",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.2",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "櫻井梨央",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "2"
+        },
+        {
+          "member": "山﨑愛生",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        },
+        {
+          "member": "小野田紗栞",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        }
+      ]
+    },
+    "7037821": {
+      "tradeId": "7037821",
+      "status": "成立",
+      "appliedAt": "2026-05-01T10:22:11.000+09:00",
+      "partnerId": "SibuSibu",
+      "mainCard": {
+        "member": "北原もも",
+        "stars": "★★",
+        "series": "OCHA NORMA FCイベント2026 ～OCHA NORMAの間9 アチアチ注意報♡恋のチョコレートティー～",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "江端妃咲",
+          "stars": "★★",
+          "series": "Juice=Juice FCイベント2026 ～Miracle×Juice×Box×結成Party！～",
+          "possession": "0"
+        }
+      ]
+    },
+    "7037857": {
+      "tradeId": "7037857",
+      "status": "不成立",
+      "appliedAt": "2026-05-01T10:33:29.000+09:00",
+      "partnerId": "7KUSA",
+      "mainCard": {
+        "member": "植村あかり",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.3",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "岡村美波",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "清野桃々姫",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "江口紗耶",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "1"
+        }
+      ]
+    },
+    "7038219": {
+      "tradeId": "7038219",
+      "status": "不成立",
+      "appliedAt": "2026-05-01T12:06:20.000+09:00",
+      "partnerId": "Rokiproject",
+      "mainCard": {
+        "member": "筒井澪心",
+        "stars": "★★",
+        "series": "OCHA NORMA FCイベント2026 ～OCHA NORMAの間9 アチアチ注意報♡恋のチョコレートティー～",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "為永幸音",
+          "stars": "★★",
+          "series": "アンジュルムFCイベント2024 ～Angermerry Xmas～",
+          "possession": "2"
+        },
+        {
+          "member": "為永幸音",
+          "stars": "★★",
+          "series": "アンジュルムFCイベント2024 ～Angermerry Xmas～",
+          "possession": "0"
+        },
+        {
+          "member": "林仁愛",
+          "stars": "★★",
+          "series": "Juice=Juice FCイベント2026 ～Miracle×Juice×Box×結成Party！～",
+          "possession": "1"
+        }
+      ]
+    },
+    "7038747": {
+      "tradeId": "7038747",
+      "status": "不成立",
+      "appliedAt": "2026-05-01T12:58:39.000+09:00",
+      "partnerId": "UTTU",
+      "mainCard": {
+        "member": "植村あかり",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.3",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "高瀬くるみ",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "平井美葉",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "9"
+        },
+        {
+          "member": "櫻井梨央",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "2"
+        }
+      ]
+    },
+    "7043054": {
+      "tradeId": "7043054",
+      "status": "成立",
+      "appliedAt": "2026-05-01T21:59:51.000+09:00",
+      "partnerId": "SOLi",
+      "mainCard": {
+        "member": "豫風瑠乃",
+        "stars": "★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+        "partnerPossession": "3"
+      },
+      "candidates": [
+        {
+          "member": "小田さくら",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "2"
+        },
+        {
+          "member": "小野田紗栞",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "0"
+        }
+      ]
+    },
+    "7043138": {
+      "tradeId": "7043138",
+      "status": "成立",
+      "appliedAt": "2026-05-01T22:08:22.000+09:00",
+      "partnerId": "matsu1984",
+      "mainCard": {
+        "member": "筒井澪心",
+        "stars": "★★",
+        "series": "OCHA NORMA FCイベント2026 ～OCHA NORMAの間9 アチアチ注意報♡恋のチョコレートティー～",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "為永幸音",
+          "stars": "★★",
+          "series": "アンジュルムFCイベント2024 ～Angermerry Xmas～",
+          "possession": "2"
+        },
+        {
+          "member": "為永幸音",
+          "stars": "★★",
+          "series": "アンジュルムFCイベント2024 ～Angermerry Xmas～",
+          "possession": "0"
+        },
+        {
+          "member": "平井美葉",
+          "stars": "★★",
+          "series": "岡山県備前市×備YOOOOONDS Fanclub Tour in BE前の陣ZIN",
+          "possession": "4"
+        }
+      ]
+    },
+    "7043328": {
+      "tradeId": "7043328",
+      "status": "不成立",
+      "appliedAt": "2026-05-01T22:34:33.000+09:00",
+      "partnerId": "anamon",
+      "mainCard": {
+        "member": "斉藤円香",
+        "stars": "★★",
+        "series": "OCHA NORMA FCイベント2026 ～OCHA NORMAの間9 アチアチ注意報♡恋のチョコレートティー～",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "為永幸音",
+          "stars": "★★",
+          "series": "アンジュルムFCイベント2024 ～Angermerry Xmas～",
+          "possession": "0"
+        },
+        {
+          "member": "平井美葉",
+          "stars": "★★",
+          "series": "岡山県備前市×備YOOOOONDS Fanclub Tour in BE前の陣ZIN",
+          "possession": "4"
+        }
+      ]
+    },
+    "7043769": {
+      "tradeId": "7043769",
+      "status": "成立",
+      "appliedAt": "2026-05-01T23:27:44.000+09:00",
+      "partnerId": "andu5",
+      "mainCard": {
+        "member": "筒井澪心",
+        "stars": "★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "前田こころ",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "1"
+        },
+        {
+          "member": "井上玲音",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        }
+      ]
+    },
+    "7047670": {
+      "tradeId": "7047670",
+      "status": "成立",
+      "appliedAt": "2026-05-02T10:32:34.000+09:00",
+      "partnerId": "udooooons",
+      "mainCard": {
+        "member": "斉藤円香",
+        "stars": "★★",
+        "series": "OCHA NORMA FCイベント2026 ～OCHA NORMAの間9 アチアチ注意報♡恋のチョコレートティー～",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "西田汐里",
+          "stars": "★★",
+          "series": "BEYOOOOONDS FCイベント2025 ～クリスマスの陣ZIN～",
+          "possession": "1"
+        }
+      ]
+    },
+    "7047784": {
+      "tradeId": "7047784",
+      "status": "成立",
+      "appliedAt": "2026-05-02T10:53:35.000+09:00",
+      "partnerId": "JUNYJUNY",
+      "mainCard": {
+        "member": "川嶋美楓",
+        "stars": "★★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "平井美葉",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "6"
+        },
+        {
+          "member": "西﨑美空",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "0"
+        },
+        {
+          "member": "福田真琳",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        }
+      ]
+    },
+    "7050385": {
+      "tradeId": "7050385",
+      "status": "成立",
+      "appliedAt": "2026-05-02T19:12:43.000+09:00",
+      "partnerId": "outsidog48",
+      "mainCard": {
+        "member": "段原瑠々",
+        "stars": "★★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "福田真琳",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        }
+      ]
+    },
+    "7050968": {
+      "tradeId": "7050968",
+      "status": "申請中",
+      "appliedAt": "2026-05-02T21:01:32.000+09:00",
+      "partnerId": "HQ29hv5IrE",
+      "mainCard": {
+        "member": "植村あかり",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.3",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "石井泉羽",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        },
+        {
+          "member": "羽賀朱音",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        },
+        {
+          "member": "豫風瑠乃",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        }
+      ]
+    },
+    "7052095": {
+      "tradeId": "7052095",
+      "status": "成立",
+      "appliedAt": "2026-05-03T00:02:47.000+09:00",
+      "partnerId": "matsu1984",
+      "mainCard": {
+        "member": "為永幸音",
+        "stars": "★★",
+        "series": "Hello! Project Official Shop ＜Autumn＞ アンジュルム",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "為永幸音",
+          "stars": "★★",
+          "series": "アンジュルムFCイベント2024 ～Angermerry Xmas～",
+          "possession": "2"
+        },
+        {
+          "member": "為永幸音",
+          "stars": "★★",
+          "series": "アンジュルムFCイベント2024 ～Angermerry Xmas～",
+          "possession": "0"
+        }
+      ]
+    },
+    "7052880": {
+      "tradeId": "7052880",
+      "status": "不成立",
+      "appliedAt": "2026-05-03T00:53:21.000+09:00",
+      "partnerId": "moi_naruse",
+      "mainCard": {
+        "member": "斉藤円香",
+        "stars": "★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "前田こころ",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "1"
+        },
+        {
+          "member": "村田結生",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "0"
+        }
+      ]
+    },
+    "7052989": {
+      "tradeId": "7052989",
+      "status": "成立",
+      "appliedAt": "2026-05-03T01:08:15.000+09:00",
+      "partnerId": "sakuuuuunds",
+      "mainCard": {
+        "member": "北川莉央",
+        "stars": "★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+        "partnerPossession": "3"
+      },
+      "candidates": [
+        {
+          "member": "前田こころ",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "1"
+        },
+        {
+          "member": "秋山眞緒",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        }
+      ]
+    },
+    "7053078": {
+      "tradeId": "7053078",
+      "status": "成立",
+      "appliedAt": "2026-05-03T01:26:10.000+09:00",
+      "partnerId": "Nash",
+      "mainCard": {
+        "member": "筒井澪心",
+        "stars": "★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "中山夏月姫",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "0"
+        }
+      ]
+    },
+    "7053154": {
+      "tradeId": "7053154",
+      "status": "成立",
+      "appliedAt": "2026-05-03T01:40:47.000+09:00",
+      "partnerId": "sh0624morning23",
+      "mainCard": {
+        "member": "米村姫良々",
+        "stars": "★★★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "松本わかな",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "2"
+        },
+        {
+          "member": "清野桃々姫",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "櫻井梨央",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        }
+      ]
+    },
+    "7054841": {
+      "tradeId": "7054841",
+      "status": "不成立",
+      "appliedAt": "2026-05-03T10:28:16.000+09:00",
+      "partnerId": "PandaParadaisu",
+      "mainCard": {
+        "member": "上國料萌衣",
+        "stars": "★★",
+        "series": "Graduation 〜上國料萌衣 from アンジュルム〜",
+        "partnerPossession": "3"
+      },
+      "candidates": [
+        {
+          "member": "高瀬くるみ",
+          "stars": "★★",
+          "series": "BEYOOOOONDS FCイベント2025 ～クリスマスの陣ZIN～",
+          "possession": "3"
+        }
+      ]
+    },
+    "7055829": {
+      "tradeId": "7055829",
+      "status": "キャンセル",
+      "appliedAt": "2026-05-03T12:36:52.000+09:00",
+      "partnerId": "hsymn",
+      "mainCard": {
+        "member": "石山咲良",
+        "stars": "★★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+        "partnerPossession": "3"
+      },
+      "candidates": [
+        {
+          "member": "北原もも",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        }
+      ]
+    },
+    "7055925": {
+      "tradeId": "7055925",
+      "status": "不成立",
+      "appliedAt": "2026-05-03T12:46:52.000+09:00",
+      "partnerId": "bach",
+      "mainCard": {
+        "member": "川村文乃",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.2",
+        "partnerPossession": "3"
+      },
+      "candidates": [
+        {
+          "member": "前田こころ",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "入江里咲",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        },
+        {
+          "member": "松永里愛",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        }
+      ]
+    },
+    "7056064": {
+      "tradeId": "7056064",
+      "status": "成立",
+      "appliedAt": "2026-05-03T13:01:23.000+09:00",
+      "partnerId": "MUSUME_OSHI",
+      "mainCard": {
+        "member": "斉藤円香",
+        "stars": "★★★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "櫻井梨央",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        }
+      ]
+    },
+    "7056402": {
+      "tradeId": "7056402",
+      "status": "申請中",
+      "appliedAt": "2026-05-03T13:54:19.000+09:00",
+      "partnerId": "NKNB",
+      "mainCard": {
+        "member": "植村あかり",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.3",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "斉藤円香",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        }
+      ]
+    },
+    "7056695": {
+      "tradeId": "7056695",
+      "status": "成立",
+      "appliedAt": "2026-05-03T14:57:58.000+09:00",
+      "partnerId": "TBK_YAGINOMURA",
+      "mainCard": {
+        "member": "前田こころ",
+        "stars": "★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "村田結生",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "0"
+        }
+      ]
+    },
+    "7057757": {
+      "tradeId": "7057757",
+      "status": "不成立",
+      "appliedAt": "2026-05-03T18:50:08.000+09:00",
+      "partnerId": "ogino0822",
+      "mainCard": {
+        "member": "佐々木莉佳子",
+        "stars": "★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.2",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "前田こころ",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "1"
+        },
+        {
+          "member": "平井美葉",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "10"
+        },
+        {
+          "member": "工藤由愛",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        }
+      ]
+    },
+    "7060476": {
+      "tradeId": "7060476",
+      "status": "不成立",
+      "appliedAt": "2026-05-04T01:08:02.000+09:00",
+      "partnerId": "Do1gwtDckj",
+      "mainCard": {
+        "member": "佐々木莉佳子",
+        "stars": "★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.2",
+        "partnerPossession": "0"
+      },
+      "candidates": [
+        {
+          "member": "井上玲音",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        },
+        {
+          "member": "平山遊季",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "1"
+        },
+        {
+          "member": "北川莉央",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        }
+      ]
+    },
+    "7060628": {
+      "tradeId": "7060628",
+      "status": "成立",
+      "appliedAt": "2026-05-04T01:43:55.000+09:00",
+      "partnerId": "Watww33",
+      "mainCard": {
+        "member": "遠藤彩加里",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.3",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "平山遊季",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "1"
+        }
+      ]
+    },
+    "7060680": {
+      "tradeId": "7060680",
+      "status": "成立",
+      "appliedAt": "2026-05-04T01:54:16.000+09:00",
+      "partnerId": "hsymn",
+      "mainCard": {
+        "member": "石山咲良",
+        "stars": "★★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+        "partnerPossession": "3"
+      },
+      "candidates": [
+        {
+          "member": "北原もも",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        }
+      ]
+    },
+    "7063068": {
+      "tradeId": "7063068",
+      "status": "不成立",
+      "appliedAt": "2026-05-04T12:23:28.000+09:00",
+      "partnerId": "karendershonen",
+      "mainCard": {
+        "member": "川村文乃",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.2",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "米村姫良々",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        },
+        {
+          "member": "井上玲音",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "4"
+        },
+        {
+          "member": "中山夏月姫",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        }
+      ]
+    },
+    "7063236": {
+      "tradeId": "7063236",
+      "status": "成立",
+      "appliedAt": "2026-05-04T12:40:55.000+09:00",
+      "partnerId": "E_I_J_I_25",
+      "mainCard": {
+        "member": "羽賀朱音",
+        "stars": "★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "平井美葉",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "10"
+        },
+        {
+          "member": "米村姫良々",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        },
+        {
+          "member": "北原もも",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "0"
+        }
+      ]
+    },
+    "7063348": {
+      "tradeId": "7063348",
+      "status": "成立",
+      "appliedAt": "2026-05-04T12:52:12.000+09:00",
+      "partnerId": "Do1gwtDckj",
+      "mainCard": {
+        "member": "佐々木莉佳子",
+        "stars": "★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.2",
+        "partnerPossession": "0"
+      },
+      "candidates": [
+        {
+          "member": "横山玲奈",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        },
+        {
+          "member": "野中美希",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        }
+      ]
+    },
+    "7063410": {
+      "tradeId": "7063410",
+      "status": "成立",
+      "appliedAt": "2026-05-04T12:59:10.000+09:00",
+      "partnerId": "turbo",
+      "mainCard": {
+        "member": "横山玲奈",
+        "stars": "★★",
+        "series": "Hello! Project AUTUMN TOUR 2024 Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "有澤一華",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "0"
+        },
+        {
+          "member": "北原もも",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        },
+        {
+          "member": "為永幸音",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "1"
+        }
+      ]
+    },
+    "7064075": {
+      "tradeId": "7064075",
+      "status": "成立",
+      "appliedAt": "2026-05-04T14:55:29.000+09:00",
+      "partnerId": "Marine",
+      "mainCard": {
+        "member": "横山玲奈",
+        "stars": "★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "清野桃々姫",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "1"
+        },
+        {
+          "member": "江口紗耶",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "1"
+        },
+        {
+          "member": "福田真琳",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        }
+      ]
+    },
+    "7064325": {
+      "tradeId": "7064325",
+      "status": "不成立",
+      "appliedAt": "2026-05-04T15:58:28.000+09:00",
+      "partnerId": "kumakuma180",
+      "mainCard": {
+        "member": "川村文乃",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.2",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "川嶋美楓",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "2"
+        },
+        {
+          "member": "井上玲音",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "4"
+        },
+        {
+          "member": "小野田紗栞",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        }
+      ]
+    },
+    "7064344": {
+      "tradeId": "7064344",
+      "status": "成立",
+      "appliedAt": "2026-05-04T16:03:43.000+09:00",
+      "partnerId": "ENGEL",
+      "mainCard": {
+        "member": "佐々木莉佳子",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.2",
+        "partnerPossession": "0"
+      },
+      "candidates": [
+        {
+          "member": "岡村美波",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "1"
+        }
+      ]
+    },
+    "7067544": {
+      "tradeId": "7067544",
+      "status": "成立",
+      "appliedAt": "2026-05-05T01:06:21.000+09:00",
+      "partnerId": "2115mhr",
+      "mainCard": {
+        "member": "川村文乃",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.2",
+        "partnerPossession": "0"
+      },
+      "candidates": [
+        {
+          "member": "里吉うたの",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "1"
+        },
+        {
+          "member": "櫻井梨央",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        }
+      ]
+    },
+    "7067628": {
+      "tradeId": "7067628",
+      "status": "成立",
+      "appliedAt": "2026-05-05T01:22:40.000+09:00",
+      "partnerId": "KARINTOU",
+      "mainCard": {
+        "member": "江口紗耶",
+        "stars": "★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+        "partnerPossession": "3"
+      },
+      "candidates": [
+        {
+          "member": "筒井澪心",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        }
+      ]
+    },
+    "7068013": {
+      "tradeId": "7068013",
+      "status": "不成立",
+      "appliedAt": "2026-05-05T04:29:29.000+09:00",
+      "partnerId": "jupiterkz",
+      "mainCard": {
+        "member": "田代すみれ",
+        "stars": "★",
+        "series": "Hello! Project ひなフェス 2024 Vol.1",
+        "partnerPossession": "3"
+      },
+      "candidates": [
+        {
+          "member": "平山遊季",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "1"
+        },
+        {
+          "member": "豫風瑠乃",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        }
+      ]
+    },
+    "7069822": {
+      "tradeId": "7069822",
+      "status": "成立",
+      "appliedAt": "2026-05-05T11:58:15.000+09:00",
+      "partnerId": "riooshi0715",
+      "mainCard": {
+        "member": "石栗奏美",
+        "stars": "★★★",
+        "series": "Hello! Project SPRING TOUR 2024 Vol.6",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "前田こころ",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "清野桃々姫",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "櫻井梨央",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        }
+      ]
+    },
+    "7071897": {
+      "tradeId": "7071897",
+      "status": "不成立",
+      "appliedAt": "2026-05-05T17:25:01.000+09:00",
+      "partnerId": "chillimi",
+      "mainCard": {
+        "member": "田代すみれ",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.1",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "筒井澪心",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "2"
+        },
+        {
+          "member": "橋迫鈴",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "1"
+        },
+        {
+          "member": "川名凜",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "1"
+        }
+      ]
+    },
+    "7071916": {
+      "tradeId": "7071916",
+      "status": "キャンセル",
+      "appliedAt": "2026-05-05T17:29:33.000+09:00",
+      "partnerId": "Momomo",
+      "mainCard": {
+        "member": "横山玲奈",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "筒井澪心",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "2"
+        },
+        {
+          "member": "下井谷幸穂",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "1"
+        },
+        {
+          "member": "北原もも",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        }
+      ]
+    },
+    "7071927": {
+      "tradeId": "7071927",
+      "status": "成立",
+      "appliedAt": "2026-05-05T17:32:31.000+09:00",
+      "partnerId": "maKCKT8ZNL",
+      "mainCard": {
+        "member": "牧野真莉愛",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "井上玲音",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "4"
+        },
+        {
+          "member": "櫻井梨央",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        },
+        {
+          "member": "山﨑愛生",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        }
+      ]
+    },
+    "7072168": {
+      "tradeId": "7072168",
+      "status": "成立",
+      "appliedAt": "2026-05-05T18:26:07.000+09:00",
+      "partnerId": "eagles74hiro",
+      "mainCard": {
+        "member": "田代すみれ",
+        "stars": "★",
+        "series": "Hello! Project ひなフェス 2024 Vol.1",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "筒井澪心",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        },
+        {
+          "member": "伊勢鈴蘭",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "1"
+        },
+        {
+          "member": "石山咲良",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "0"
+        }
+      ]
+    },
+    "7073744": {
+      "tradeId": "7073744",
+      "status": "成立",
+      "appliedAt": "2026-05-05T23:31:08.000+09:00",
+      "partnerId": "7min",
+      "mainCard": {
+        "member": "里吉うたの",
+        "stars": "★★★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "岡村ほまれ",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "0"
+        },
+        {
+          "member": "西﨑美空",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        }
+      ]
+    },
+    "7074262": {
+      "tradeId": "7074262",
+      "status": "成立",
+      "appliedAt": "2026-05-06T00:16:51.000+09:00",
+      "partnerId": "krkrsukichan",
+      "mainCard": {
+        "member": "横山玲奈",
+        "stars": "★★★",
+        "series": "Hello! Project SPRING TOUR 2024 Vol.1",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "筒井澪心",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "2"
+        },
+        {
+          "member": "中山夏月姫",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        },
+        {
+          "member": "川名凜",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "1"
+        }
+      ]
+    },
+    "7074536": {
+      "tradeId": "7074536",
+      "status": "成立",
+      "appliedAt": "2026-05-06T00:41:07.000+09:00",
+      "partnerId": "KuXZSF1L5Y",
+      "mainCard": {
+        "member": "田代すみれ",
+        "stars": "★",
+        "series": "Hello! Project SPRING TOUR 2024 Vol.6",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "松本わかな",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "0"
+        },
+        {
+          "member": "江端妃咲",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        },
+        {
+          "member": "豫風瑠乃",
+          "stars": "★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        }
+      ]
+    },
+    "7074607": {
+      "tradeId": "7074607",
+      "status": "不成立",
+      "appliedAt": "2026-05-06T00:50:25.000+09:00",
+      "partnerId": "yakiniku_sushi_",
+      "mainCard": {
+        "member": "八木栞",
+        "stars": "★★★",
+        "series": "Hello! Project AUTUMN TOUR 2024 Vol.4",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "筒井澪心",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "2"
+        },
+        {
+          "member": "橋迫鈴",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "1"
+        },
+        {
+          "member": "後藤花",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "2"
+        }
+      ]
+    },
+    "7074670": {
+      "tradeId": "7074670",
+      "status": "不成立",
+      "appliedAt": "2026-05-06T00:58:08.000+09:00",
+      "partnerId": "jj_n0101",
+      "mainCard": {
+        "member": "牧野真莉愛",
+        "stars": "★★★",
+        "series": "Hello! Project SPRING TOUR 2024 Vol.1",
+        "partnerPossession": "4"
+      },
+      "candidates": [
+        {
+          "member": "筒井澪心",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "2"
+        },
+        {
+          "member": "井上玲音",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "4"
+        }
+      ]
+    },
+    "7074790": {
+      "tradeId": "7074790",
+      "status": "不成立",
+      "appliedAt": "2026-05-06T01:12:24.000+09:00",
+      "partnerId": "WHvleBC3KD",
+      "mainCard": {
+        "member": "川村文乃",
+        "stars": "★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.2",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "入江里咲",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        },
+        {
+          "member": "小野瑞歩",
+          "stars": "★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        }
+      ]
+    },
+    "7076769": {
+      "tradeId": "7076769",
+      "status": "不成立",
+      "appliedAt": "2026-05-06T11:39:26.000+09:00",
+      "partnerId": "Hugo_upfan",
+      "mainCard": {
+        "member": "植村あかり",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.3",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "前田こころ",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "斉藤円香",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        }
+      ]
+    },
+    "7077754": {
+      "tradeId": "7077754",
+      "status": "不成立",
+      "appliedAt": "2026-05-06T13:31:27.000+09:00",
+      "partnerId": "g83BWvrKgF",
+      "mainCard": {
+        "member": "植村あかり",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.3",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "前田こころ",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "櫻井梨央",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        },
+        {
+          "member": "斉藤円香",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        }
+      ]
+    },
+    "7078635": {
+      "tradeId": "7078635",
+      "status": "キャンセル",
+      "appliedAt": "2026-05-06T16:57:07.000+09:00",
+      "partnerId": "1PUeOBIc3E",
+      "mainCard": {
+        "member": "牧野真莉愛",
+        "stars": "★★★",
+        "series": "Hello! Project SPRING TOUR 2024 Vol.1",
+        "partnerPossession": "3"
+      },
+      "candidates": [
+        {
+          "member": "川嶋美楓",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "2"
+        },
+        {
+          "member": "井上玲音",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "4"
+        }
+      ]
+    },
+    "7078665": {
+      "tradeId": "7078665",
+      "status": "成立",
+      "appliedAt": "2026-05-06T17:05:19.000+09:00",
+      "partnerId": "ENGEL",
+      "mainCard": {
+        "member": "上國料萌衣",
+        "stars": "★★★",
+        "series": "Graduation 〜上國料萌衣 from アンジュルム〜",
+        "partnerPossession": "0"
+      },
+      "candidates": [
+        {
+          "member": "上村麗菜",
+          "stars": "★★★",
+          "series": "ロージークロニクル FCイベント2024 ～ Rosy Christmas! ～",
+          "possession": "0"
+        }
+      ]
+    },
+    "7079386": {
+      "tradeId": "7079386",
+      "status": "不成立",
+      "appliedAt": "2026-05-06T19:58:47.000+09:00",
+      "partnerId": "Wmavvbi5mK",
+      "mainCard": {
+        "member": "植村あかり",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.3",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "前田こころ",
+          "stars": "★★★",
+          "series": "Hello! Project AUTUMN TOUR 2024 Vol.5",
+          "possession": "1"
+        },
+        {
+          "member": "前田こころ",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        }
+      ]
+    },
+    "7079387": {
+      "tradeId": "7079387",
+      "status": "成立",
+      "appliedAt": "2026-05-06T19:58:48.000+09:00",
+      "partnerId": "ENGEL",
+      "mainCard": {
+        "member": "横山玲奈",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.1",
+        "partnerPossession": "0"
+      },
+      "candidates": [
+        {
+          "member": "西﨑美空",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        }
+      ]
+    },
+    "7079404": {
+      "tradeId": "7079404",
+      "status": "成立",
+      "appliedAt": "2026-05-06T20:00:50.000+09:00",
+      "partnerId": "ENGEL",
+      "mainCard": {
+        "member": "上國料萌衣",
+        "stars": "★★★",
+        "series": "アンジュルム 上國料萌衣FCイベント2025 ～ソングフォーユー！！～",
+        "partnerPossession": "0"
+      },
+      "candidates": [
+        {
+          "member": "橋迫鈴",
+          "stars": "★★★",
+          "series": "竹内朱莉×アンジュルム 新春万福",
+          "possession": "0"
+        }
+      ]
+    },
+    "7079994": {
+      "tradeId": "7079994",
+      "status": "不成立",
+      "appliedAt": "2026-05-06T21:56:24.000+09:00",
+      "partnerId": "8nlQvQmAak",
+      "mainCard": {
+        "member": "八木栞",
+        "stars": "★★★",
+        "series": "Hello! Project AUTUMN TOUR 2024 Vol.4",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "川嶋美楓",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "2"
+        },
+        {
+          "member": "後藤花",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "2"
+        },
+        {
+          "member": "斉藤円香",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        }
+      ]
+    },
+    "7081093": {
+      "tradeId": "7081093",
+      "status": "不成立",
+      "appliedAt": "2026-05-07T00:22:00.000+09:00",
+      "partnerId": "noriko",
+      "mainCard": {
+        "member": "植村あかり",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.3",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "松永里愛",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        },
+        {
+          "member": "牧野真莉愛",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        }
+      ]
+    },
+    "7081567": {
+      "tradeId": "7081567",
+      "status": "成立",
+      "appliedAt": "2026-05-07T01:40:58.000+09:00",
+      "partnerId": "bMlW6eQP2H",
+      "mainCard": {
+        "member": "植村あかり",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.3",
+        "partnerPossession": "0"
+      },
+      "candidates": [
+        {
+          "member": "米村姫良々",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "0"
+        },
+        {
+          "member": "筒井澪心",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "2"
+        },
+        {
+          "member": "西﨑美空",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        }
+      ]
+    },
+    "7083199": {
+      "tradeId": "7083199",
+      "status": "成立",
+      "appliedAt": "2026-05-07T11:33:49.000+09:00",
+      "partnerId": "wing1017",
+      "mainCard": {
+        "member": "牧野真莉愛",
+        "stars": "★★★",
+        "series": "Hello! Project AUTUMN TOUR 2024 Vol.1",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "筒井澪心",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "2"
+        },
+        {
+          "member": "段原瑠々",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "1"
+        },
+        {
+          "member": "伊勢鈴蘭",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "1"
+        }
+      ]
+    },
+    "7084590": {
+      "tradeId": "7084590",
+      "status": "成立",
+      "appliedAt": "2026-05-07T17:10:03.000+09:00",
+      "partnerId": "dz81fqZajl",
+      "mainCard": {
+        "member": "段原瑠々",
+        "stars": "★★★",
+        "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+        "partnerPossession": "1"
+      },
+      "candidates": [
+        {
+          "member": "筒井澪心",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "2"
+        },
+        {
+          "member": "櫻井梨央",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        }
+      ]
+    },
+    "7087110": {
+      "tradeId": "7087110",
+      "status": "申請中",
+      "appliedAt": "2026-05-07T23:55:21.000+09:00",
+      "partnerId": "YIWVRMCd3X",
+      "mainCard": {
+        "member": "牧野真莉愛",
+        "stars": "★★★",
+        "series": "Hello! Project SPRING TOUR 2024 Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "井上玲音",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "4"
+        },
+        {
+          "member": "小野田紗栞",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        }
+      ]
+    },
+    "7087499": {
+      "tradeId": "7087499",
+      "status": "申請中",
+      "appliedAt": "2026-05-08T00:18:56.000+09:00",
+      "partnerId": "utan",
+      "mainCard": {
+        "member": "小田さくら",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "里吉うたの",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "1"
+        },
+        {
+          "member": "中山夏月姫",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.6",
+          "possession": "1"
+        },
+        {
+          "member": "川名凜",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "1"
+        }
+      ]
+    },
+    "7087653": {
+      "tradeId": "7087653",
+      "status": "申請中",
+      "appliedAt": "2026-05-08T00:32:06.000+09:00",
+      "partnerId": "himachan",
+      "mainCard": {
+        "member": "小田さくら",
+        "stars": "★★★",
+        "series": "Hello! Project SPRING TOUR 2024 Vol.1",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "河西結心",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        },
+        {
+          "member": "山﨑愛生",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.1",
+          "possession": "1"
+        }
+      ]
+    },
+    "7087989": {
+      "tradeId": "7087989",
+      "status": "申請中",
+      "appliedAt": "2026-05-08T01:25:27.000+09:00",
+      "partnerId": "NL4L1Gngo8",
+      "mainCard": {
+        "member": "秋山眞緒",
+        "stars": "★★★",
+        "series": "Hello! Project 2024 Winter 〜THREE OF US〜Vol.2",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "清野桃々姫",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "井上玲音",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.3",
+          "possession": "4"
+        }
+      ]
+    },
+    "7088010": {
+      "tradeId": "7088010",
+      "status": "申請中",
+      "appliedAt": "2026-05-08T01:32:22.000+09:00",
+      "partnerId": "_SHIOOOOONNU_",
+      "mainCard": {
+        "member": "秋山眞緒",
+        "stars": "★★★",
+        "series": "Hello! Project SPRING TOUR 2024 Vol.4",
+        "partnerPossession": "2"
+      },
+      "candidates": [
+        {
+          "member": "前田こころ",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.5",
+          "possession": "2"
+        },
+        {
+          "member": "石井泉羽",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.4",
+          "possession": "1"
+        },
+        {
+          "member": "橋迫鈴",
+          "stars": "★★★",
+          "series": "Hello! Project SPRING TOUR 2025 Vol.2",
+          "possession": "1"
+        }
+      ]
+    }
+  }
+}

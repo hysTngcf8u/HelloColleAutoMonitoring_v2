@@ -1,0 +1,27 @@
+name: 🔍 Trade Partner Query
+
+on:
+  workflow_dispatch:
+    inputs:
+      partner_id:
+        description: '調べたい相手IDを入力'
+        required: true
+        type: string
+
+jobs:
+  query:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24' # 20から24へ更新
+          cache: 'npm'
+      - name: Install dependencies
+        run: npm install
+      - name: Run Analysis and Notify
+        run: npx tsx tests/analyze-trade.ts "${{ github.event.inputs.partner_id }}"
+        env:
+          SEND_NOTIFICATION: 'true'
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
