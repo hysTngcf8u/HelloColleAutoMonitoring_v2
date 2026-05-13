@@ -1,30 +1,28 @@
-name: Trade Auto Monitor v2
+name: HelloColle V2 Monitor
+
 on:
   schedule:
-    - cron: '13,43 * * * *' # 30分おき（混雑回避）
+    - cron: '13,28,43,58 * * * *'
   workflow_dispatch:
 
 jobs:
-  monitor:
+  run-monitor:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: '20'
-      
+          node-version: '24'
+          cache: 'npm'
       - name: Install dependencies
         run: npm install
-
-      - name: Install Playwright Browsers
-        run: npx playwright install chromium
-
-      - name: Run Monitoring
+      - name: Install Playwright
+        run: npx playwright install chromium --with-deps
+      - name: Execute Monitor
+        run: npx playwright test
         env:
           MY_USER_ID: ${{ secrets.MY_USER_ID }}
           MY_PASSWORD: ${{ secrets.MY_PASSWORD }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
-          LINE_USER_ID: ${{ secrets.LINE_USER_ID }}
           GAS_WEBAPP_URL: ${{ secrets.GAS_WEBAPP_URL }}
-        run: npx playwright test
