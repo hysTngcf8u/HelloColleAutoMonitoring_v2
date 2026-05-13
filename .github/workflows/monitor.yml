@@ -17,9 +17,12 @@ jobs:
           cache: 'npm'
       - name: Install dependencies
         run: npm install
-      - name: Install Playwright
-        run: npx playwright install chromium --with-deps
+        - name: Install Playwright
+        # --with-deps を外して軽量化
+        run: npx playwright install chromium 
       - name: Execute Monitor
+        # 10分以上かかったら強制終了させる設定を追加
+        timeout-minutes: 10 
         run: npx playwright test
         env:
           MY_USER_ID: ${{ secrets.MY_USER_ID }}

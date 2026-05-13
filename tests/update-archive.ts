@@ -64,11 +64,22 @@ test('ハロコレ監視 V2 (GAS連動版)', async ({ page }) => {
 
         const res = await axios.post(GAS_URL, { type: 'trade', data: tradeData });
         
-        // GASが「通知してよし」と言った場合のみDiscordへ
-        if (res.data.shouldNotify && process.env.DISCORD_WEBHOOK_URL) {
-            await axios.post(process.env.DISCORD_WEBHOOK_URL, { 
-                content: "🔄 トレード状況に変化がありました！スプレッドシートを確認してください。" 
-            });
-        }
+// GAS: ステータス変化時にメッセージを組み立てる
+if (oldStatus === '申請中' && trade.status !== '申請中') {
+  sheet.getRange(existingRow, 3).setValue(trade.status);
+  sheet.getRange(existingRow, 8).setValue(new Date());
+  
+  // 通知用の文章を作成
+  shouldNotify = true;
+  var msg = "🔔 トレード状況に変化！\n";
+  msg += "相手: " + trade.partnerId + "\n";
+  msg += "カード: " + trade.mainCard.member + " " + trade.mainCard.stars + "\n";
+  msg += "結果: " + oldStatus + " ➔ " + trade.status;
+  
+  return ContentService.createTextOutput(JSON.stringify({ 
+    shouldNotify: true, 
+    report: msg 
+  })).setMimeType(ContentService.MimeType.JSON);
+}
     }
 });
