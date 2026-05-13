@@ -8,7 +8,7 @@ const GAS_URL = process.env.GAS_WEBAPP_URL || '';
 
 test('Trade Monitoring via GAS', async ({ page }) => {
     console.log('[Step 1] ハロコレにログイン中...');
-    await page.goto('https://hellocolle.jp/login');
+    await page.goto('https://helloproject.orical.jp/login');
     await page.fill('input[name="screen_name"]', USER_ID);
     await page.fill('input[name="password"]', USER_PW);
     await page.click('button[type="submit"]');
@@ -16,7 +16,7 @@ test('Trade Monitoring via GAS', async ({ page }) => {
 
     console.log('[Step 2] トレード情報を取得中...');
     const responsePromise = page.waitForResponse(res => res.url().includes('/api/trades/history'));
-    await page.goto('https://hellocolle.jp/trades/history');
+    await page.goto('https://helloproject.orical.jp/mypage/beyomiyo_reirei');
     const response = await responsePromise;
     const json = await response.json();
     const capturedTrades = json.trades || [];

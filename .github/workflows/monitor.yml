@@ -24,5 +24,7 @@ jobs:
           MY_USER_ID: ${{ secrets.MY_USER_ID }}
           MY_PASSWORD: ${{ secrets.MY_PASSWORD }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
+          LINE_USER_ID: ${{ secrets.LINE_USER_ID }}
           GAS_WEBAPP_URL: ${{ secrets.GAS_WEBAPP_URL }}
         run: npx playwright test
