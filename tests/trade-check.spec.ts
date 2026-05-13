@@ -226,11 +226,26 @@ for (const trade of currentResults) {
     fs.writeFileSync(STATE_FILE, JSON.stringify(savedState, null, 2));
     console.log(`[完了] ${currentResults.length}件のデータを保存しました。CSV変換を実行してください。`);
 
-    // 6. 通知
-    if (messages.length > 0) {
-        await sendNotifications(messages.join('\n\n──────────\n\n'));
-        console.log('通知を送信しました。');
-    } else {
-        console.log('変化はありません。');
+// GAS送信後、レスポンスを受け取る
+    const res = await axios.post(GAS_URL, { type: 'trade', data: tradeData });
+    
+    // GAS側で「変化あり（shouldNotify: true）」と判定され、かつレポートがある場合
+    if (res.data.shouldNotify && res.data.report) {
+        const message = res.data.report;
+
+        // Discord通知
+        if (process.env.DISCORD_WEBHOOK_URL) {
+            await axios.post(process.env.DISCORD_WEBHOOK_URL, { content: message });
+        }
+
+        // LINE通知
+        if (process.env.LINE_CHANNEL_ACCESS_TOKEN && process.env.LINE_USER_ID) {
+            await axios.post('https://api.line.me/v2/bot/message/push', {
+                to: process.env.LINE_USER_ID,
+                messages: [{ type: 'text', text: message }]
+            }, {
+                headers: { 'Authorization': `Bearer ${process.env.LINE_CHANNEL_ACCESS_TOKEN}` }
+            }).catch(e => console.error("LINE送信失敗"));
+        }
     }
 });
