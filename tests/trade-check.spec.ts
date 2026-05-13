@@ -32,7 +32,7 @@ test('ハロコレ監視 V2 (GAS連動版)', async ({ page }) => {
 
     // 1. ログイン処理
     console.log('[Step 1] ログインを開始します...');
-    await page.goto('https://helloproject.orical.jp/login');
+    await page.goto('https://helloproject.orical.jp/login/helloproject');
     
     // 「横向き禁止」の画面を隠すための処理
     await page.addStyleTag({ content: '.t-prohibit-landscape { display: none !important; }' });

@@ -21,7 +21,7 @@ test('ハロコレ監視 V2 (GAS連動版)', async ({ page }) => {
     });
 
     // 1. ログイン処理
-    await page.goto('https://helloproject.orical.jp/login');
+    await page.goto('https://helloproject.orical.jp/login/helloproject');
     await page.getByRole('spinbutton').fill(process.env.MY_USER_ID!);
     await page.getByRole('textbox').fill(process.env.MY_PASSWORD!);
     await page.keyboard.press('Enter');
