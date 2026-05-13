@@ -2,7 +2,9 @@ import { test, expect } from '@playwright/test';
 import axios from 'axios';
 
 test('ハロコレ監視 V2 (GAS連動版)', async ({ page }) => {
-    // --- スマホサイズ（縦長）に強制設定 ---
+    // --- テスト全体の制限時間を90秒に設定 ---
+    test.setTimeout(90000);
+
     await page.setViewportSize({ width: 375, height: 812 });
 
     const GAS_URL = process.env.GAS_WEBAPP_URL;
@@ -31,61 +33,61 @@ test('ハロコレ監視 V2 (GAS連動版)', async ({ page }) => {
     });
 
     // 1. ログイン処理
-    console.log('[Step 1] ログインを開始します...');
+    console.log('[Step 1] ログイン開始...');
+    // 直したURLを使用
     await page.goto('https://helloproject.orical.jp/login/helloproject');
     
-    // 「横向き禁止」の画面を隠すための処理
     await page.addStyleTag({ content: '.t-prohibit-landscape { display: none !important; }' });
-
     await page.waitForSelector('input[type="number"]', { timeout: 10000 });
     
-    console.log('IDとパスワードを入力中...');
     await page.locator('input[type="number"]').fill(MY_ID!);
     await page.locator('input[type="password"]').fill(MY_PASS!);
 
-    console.log('ログインボタンをクリックします...');
+    console.log('ログインボタンをクリック...');
     const loginButton = page.getByRole('button', { name: /ログイン/i }).or(page.locator('button[type="submit"]'));
-    
-    // force: true を追加して、重なっている要素があっても強制的にクリック
     await loginButton.click({ force: true });
 
-    // ログイン後の遷移を待機
-    try {
-        await page.waitForURL(/\/home/, { timeout: 30000 }); 
-        console.log('✅ ホーム画面への遷移に成功');
-    } catch (e) {
-        console.error('❌ ログイン遷移失敗。現在のURL:', page.url());
-        throw e;
-    }
+    await page.waitForURL(/\/home/, { timeout: 30000 }); 
+    console.log('✅ ホーム画面への遷移に成功');
 
     // 2. コレクション取得
     console.log('[Step 2] マイページへ移動...');
     await page.goto(`https://helloproject.orical.jp/mypage/${MY_HCID}`);
-    await page.waitForTimeout(5000);
-    // スクロールしてデータを読み込ませる
-    await page.evaluate(() => window.scrollBy(0, 1500));
+    // APIが確実に飛ぶように少し待機
+    await page.waitForTimeout(3000);
+    await page.evaluate(() => window.scrollBy(0, 1000));
     await page.waitForTimeout(2000);
 
     // 3. トレード履歴取得
-    console.log('[Step 3] ホームへ移動...');
+    console.log('[Step 3] ホームへ移動（トレード履歴確定用）...');
     await page.goto('https://helloproject.orical.jp/home');
-    await page.waitForTimeout(5000);
+    await page.waitForTimeout(4000);
 
     // --- GASへのデータ送信処理 ---
-    if (!GAS_URL) return;
+    if (!GAS_URL) {
+        console.error('❌ GAS_WEBAPP_URL が設定されていません');
+        return;
+    }
 
+    // A. コレクション送信
     if (capturedCollection.length > 0) {
+        console.log('GASへコレクションデータを送信中...');
         const collectionData = capturedCollection.map(item => ({
             name: item.card?.description || item.card?.person?.name || "不明",
             stars: '★'.repeat(item.card?.rarity || 1),
             series: item.card?.name || "-",
             amount: item.amount
         }));
-        await axios.post(GAS_URL, { type: 'collection', data: collectionData }).catch(() => {});
-        console.log('GASへコレクション送信完了');
+        await axios.post(GAS_URL, { type: 'collection', data: collectionData })
+            .then(() => console.log('✅ コレクション送信成功'))
+            .catch(e => console.error('❌ コレクション送信失敗:', e.message));
+    } else {
+        console.log('⚠️ コレクションデータが捕捉されなかったため、送信をスキップします');
     }
 
+    // B. トレード履歴送信
     if (capturedTrades.length > 0) {
+        console.log('GASへトレード履歴を送信中...');
         const tradeData = capturedTrades.map(t => ({
             appliedAt: t.created_at,
             status: t.status === 'pending' ? '申請中' : (t.status === 'accepted' ? '成立' : '不成立'),
@@ -97,20 +99,33 @@ test('ハロコレ監視 V2 (GAS連動版)', async ({ page }) => {
             }
         }));
 
-        const res = await axios.post(GAS_URL, { type: 'trade', data: tradeData });
-        
-        if (res.data && res.data.shouldNotify && res.data.report) {
-            const message = res.data.report;
-            if (process.env.DISCORD_WEBHOOK_URL) await axios.post(process.env.DISCORD_WEBHOOK_URL, { content: message });
-            if (process.env.LINE_CHANNEL_ACCESS_TOKEN && process.env.LINE_USER_ID) {
-                await axios.post('https://api.line.me/v2/bot/message/push', {
-                    to: process.env.LINE_USER_ID,
-                    messages: [{ type: 'text', text: message }]
-                }, {
-                    headers: { 'Authorization': `Bearer ${process.env.LINE_CHANNEL_ACCESS_TOKEN}` }
-                }).catch(() => {});
+        try {
+            const res = await axios.post(GAS_URL, { type: 'trade', data: tradeData });
+            console.log('✅ トレード履歴送信成功');
+            
+            if (res.data && res.data.shouldNotify && res.data.report) {
+                const message = res.data.report;
+                // Discord
+                if (process.env.DISCORD_WEBHOOK_URL) {
+                    await axios.post(process.env.DISCORD_WEBHOOK_URL, { content: message });
+                }
+                // LINE
+                if (process.env.LINE_CHANNEL_ACCESS_TOKEN && process.env.LINE_USER_ID) {
+                    await axios.post('https://api.line.me/v2/bot/message/push', {
+                        to: process.env.LINE_USER_ID,
+                        messages: [{ type: 'text', text: message }]
+                    }, {
+                        headers: { 'Authorization': `Bearer ${process.env.LINE_CHANNEL_ACCESS_TOKEN}` }
+                    });
+                }
+                console.log('✅ 各種通知を完了しました');
             }
+        } catch (e) {
+            console.error('❌ トレード履歴送信または通知に失敗:', e.message);
         }
+    } else {
+        console.log('⚠️ トレード履歴が捕捉されなかったため、送信をスキップします');
     }
-    console.log('全工程完了');
+
+    console.log('すべての処理が正常に終了しました。');
 });
